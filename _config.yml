@@ -132,7 +132,7 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
-  - Gruntfile.js
+  - Gruntfile.js/Users/chenandong/Documents/PersonalPage/chenandong.github.io/images/image-alignment-580x300.jpg
   - LICENSE
   - README
   - Rakefile
@@ -193,7 +193,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "https://andongblue.github.io/chenandong.github.io/"
       type: posts
     values:
       layout: single
