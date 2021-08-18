@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 - B.S. in Electrical engineering and its automation, 2019
+
   HUNAN UNIVERSITY
   
 - M.S. in Computational Linguistics, 2022
@@ -23,7 +24,7 @@ Education
   QUEEN MARY UNIVERSITY OF LONDON
 
 
-Work experience
+Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -54,5 +55,5 @@ Open Source Contribution
 **Introduction**: An open-source data analysis project for everyone to learn by themselves
 
 - Use the Titanic data set to divide tasks according to data observation, data manipulation, data visualization, data modeling, and model evaluation. 
--  Each task is planned and written according to "problems encountered"-"provide ideas"- "code actual combat"-"summary review". It has been open-sourced on GitHub. There are currently 280 Stars and are recommended by the Datawhale public account.
+-  Result : **Start** 398; **Fork:** 163
 - [Open source link here]: (https://github.com/datawhalechina/hands-on-data-analysis)
