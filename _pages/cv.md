@@ -26,13 +26,13 @@ Education
 
 Experience
 ======
-* Summer 2021: Inter
-  * 
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: AI Lab Inter
+  * Cambricon Technologies Corporation
+  * Duties included: Build large pertrain model
+  * Supervisor: [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en)
 
-* Fall 2015: Research Assistant
-  * Github University
+* Spring 2021: Inter
+  * Queen Mary University of London
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
@@ -57,4 +57,5 @@ Open Source Contribution
 
 - Use the Titanic data set to divide tasks according to data observation, data manipulation, data visualization, data modeling, and model evaluation. 
 -  Result : **Start** 398; **Fork:** 163
+
 [Open source link here](https://github.com/datawhalechina/hands-on-data-analysis)
