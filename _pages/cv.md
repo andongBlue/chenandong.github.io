@@ -29,7 +29,7 @@ Experience
 * Summer 2021: AI Lab Inter
   * Cambricon Technologies Corporation
   * Duties included: Build large pertrain model
-  * Supervisor: [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en)
+  * Supervisor: Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en)
 
 * Spring 2021: Inter
   * Queen Mary University of London
