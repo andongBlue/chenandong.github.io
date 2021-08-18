@@ -11,9 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- B.S. in Electrical engineering and its automation, 2019
+  HUNAN UNIVERSITY
+  
+- M.S. in Computational Linguistics, 2022
+
+  MINZU UNIVERSITY OF CHINA
+
+- M.S. in Big Data Science, 2022
+
+  QUEEN MARY UNIVERSITY OF LONDON
+
 
 Work experience
 ======
@@ -27,15 +35,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -48,12 +47,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Open Source Contribution
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Hands-on data analysis
+**Role**: Project sponsor and content builder
+**Introduction**: An open-source data analysis project for everyone to learn by themselves
+
+- Use the Titanic data set to divide tasks according to data observation, data manipulation, data visualization, data modeling, and model evaluation. 
+-  Each task is planned and written according to "problems encountered"-"provide ideas"- "code actual combat"-"summary review". It has been open-sourced on GitHub. There are currently 280 Stars and are recommended by the Datawhale public account.
+- [Open source link here]: (https://github.com/datawhalechina/hands-on-data-analysis)
