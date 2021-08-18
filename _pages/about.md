@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a graduate student in the field of NLP in Minzu University of Chia and [Queen Mary University of London](https://www.qmul.ac.uk/) (Double Degress). I 
 
-
-
+Previously, I completed my Ph.D. in Computer Science from Yale University, advised by Dragomir Radev. Before coming to Yale, I got my master's at Columbia University advised by Owen Rambow and Kathleen McKeown. I was an undergraduate at the University of Utah. Throughout my graduate studies, I spent several summers doing internships in industry, including Samsung Research America, Salesforce Research, and Microsoft Research. I also introduced and organized multiple popular shared tasks (e.g. Spider, SParC, CoSQL) for building conversational NLIs, which have attracted more than 100 submissions from top research labs.
 我现在是一名NLP领域的研究生。本科在湖南大学做控制方向。现在是中央民族大学语咨委lab和伦敦玛丽女王大学的研究生。师从赵小兵与孙媛老师。在中央民族大学期间，主要的方向是低资源语言的表示学习。在伦敦玛丽女王大学，I am  supervised by Ph.D. candidate Rosella Paulina Galindo Esparza and Bosque in the CogSci research group.
 
 # Recent progress💡
 
-1. 现在我在中科寒武纪Ai-Lab做实习生，主要从事大规模预训练的工作
-2. 正在完成一篇ACL的论文，论文是关于低资源机器阅读理解任务，在伦敦n玛丽女王大学
+1. Recently, I am working as an intern at Cambricon Technologies Corporation Ai-Lab, mainly working on large-scale pre-training
+2. In collaboration with Rosella Galindo Esparza in Queen Mary University of London, a paper is being written on low resource machine reading comprehension. The paper will be submitted to ACL.
 
 # Interests
 
