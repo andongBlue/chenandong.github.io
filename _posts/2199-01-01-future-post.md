@@ -14,7 +14,7 @@ tags:
 
 对于一个刚入门NLP的小白来说，一开始看到NLP的任务一定会觉得这个领域的任务是琳琅满目，多种多样的。可能一时间找不到自己的落脚点。这里我先将NLP的任务做一个梳理，让大家有一个清晰的认识。总的来说呢，NLP主要分为五个大类的任务，其任务名称如图：
 
-![Bert%E4%B8%8ESQUAD%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%AF%B4%E7%9A%84%E6%95%85%E4%BA%8B%20dceb32a787714596b5e7c29573696402/Untitled.png](Bert%E4%B8%8ESQUAD%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%AF%B4%E7%9A%84%E6%95%85%E4%BA%8B%20dceb32a787714596b5e7c29573696402/Untitled.png)
+![picture](./Pos1/Untitled.png)
 
 但是呢，这五个任务只是一个大类，这个大类里面还分为很多小类。比如，文本生成任务(Text Generation)这个大类中就有语言模型(language modeling)，机器翻译(Machine translation)，摘要生成(Summarization)，机器阅读理解(Machine Reading Comprehension)以及对话系统(Dialogue)等小类。
 
