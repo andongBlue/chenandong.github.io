@@ -57,5 +57,4 @@ Open Source Contribution
 
 - Use the Titanic data set to divide tasks according to data observation, data manipulation, data visualization, data modeling, and model evaluation. 
 -  Result : **Start** 398; **Fork:** 163
--  de1
--  Open source link here: https://github.com/datawhalechina/hands-on-data-analysis
+[Open source link here](https://github.com/datawhalechina/hands-on-data-analysis)
