@@ -6,8 +6,7 @@ excerpt: 'Learning the representation of a knowledge graph is critical to the fi
 date: 2021-01-11
 venue: 'The Transactions on Asian and Low-Resource Language Information Processing'
 paperurl: 'https://github.com/andongBlue/chenandong.github.io/tree/master/files/JointModel.pdf'
-citation: 'Yuan Sun, **Andong Chen**, Chaofan Chen, Tianci Xia, Xiaobing Zhao'
 ---
 [Download paper here](https://github.com/andongBlue/chenandong.github.io/tree/master/files/JointModel.pdf)
 
-Yuan Sun, Andong Chen, Chaofan Chen, Tianci Xia, Xiaobing Zhao
+Yuan Sun, **Andong Chen**, Chaofan Chen, Tianci Xia, Xiaobing Zhao
