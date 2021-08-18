@@ -52,8 +52,9 @@ Open Source Contribution
 ======
 ## Hands-on data analysis
 **Role**: Project sponsor and content builder
+
 **Introduction**: An open-source data analysis project for everyone to learn by themselves
 
 - Use the Titanic data set to divide tasks according to data observation, data manipulation, data visualization, data modeling, and model evaluation. 
 -  Result : **Start** 398; **Fork:** 163
-- [Open source link here]: (https://github.com/datawhalechina/hands-on-data-analysis)
+-  [Open source link here]: (https://github.com/datawhalechina/hands-on-data-analysis)
