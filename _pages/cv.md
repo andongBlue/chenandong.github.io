@@ -33,8 +33,8 @@ Experience
 
 * Spring 2021: Inter
   * Queen Mary University of London
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: Research low-resource language machine reading comprehension
+  * Supervisor: PHD [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
   
 Publications
 ======
