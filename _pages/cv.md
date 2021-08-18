@@ -26,8 +26,8 @@ Education
 
 Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2021: Inter
+  * 
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
@@ -57,4 +57,5 @@ Open Source Contribution
 
 - Use the Titanic data set to divide tasks according to data observation, data manipulation, data visualization, data modeling, and model evaluation. 
 -  Result : **Start** 398; **Fork:** 163
+-  de1
 -  [Open source link here]: (https://github.com/datawhalechina/hands-on-data-analysis)
