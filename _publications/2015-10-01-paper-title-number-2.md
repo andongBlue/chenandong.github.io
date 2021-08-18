@@ -1,15 +1,13 @@
 ---
 title: "A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia"
 collection: publications
-permalink: /Accpected/2021-01-11-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 4 is left for future work.'
+permalink: /publication/2015-10-01-paper-title-number-2
+excerpt: 'Learning the representation of a knowledge graph is critical to the field of natural language processing. There is a lot of research for English knowledge graph representation. However, for the low-resource languages, such as Tibetan, how to represent sparse knowledge graphs is a key problem. In this paper, aiming at scarcity of Tibetan knowledge graphs, we extend the Tibetan knowledge graph by using the triples of the high- resource language knowledge graphs and POI (Point of Information) map information. To improve the represen -tation learning of the Tibetan knowledge graph, we propose a joint model to merge structure and entity description information based on the TransE and CNN model. In addition, to solve the segmentation errors, we use character and word embedding to learn more complex information in Tibetan. Finally, the experimental results show that our model can make a better representation of the Tibetan knowledge graph than the baseline.'
 date: 2021-01-11
-venue: 'The Transactions on Asian and Low-Resource Language Information Processing
+venue: 'The Transactions on Asian and Low-Resource Language Information Processing'
 paperurl: 'https://github.com/andongBlue/chenandong.github.io/tree/master/files/JointModel.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Yuan Sun, **Andong Chen**, Chaofan Chen, Tianci Xia, Xiaobing Zhao'
 ---
-
-
 [Download paper here](https://github.com/andongBlue/chenandong.github.io/tree/master/files/JointModel.pdf)
 
 Yuan Sun, Andong Chen, Chaofan Chen, Tianci Xia, Xiaobing Zhao
