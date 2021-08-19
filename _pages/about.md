@@ -23,15 +23,15 @@ I am now a graduate student in NLP direction. I graduated from [Hunan University
 
 # Education
 
-- BSc in Electrical engineering and its automation, 2019
+- BSc in Electrical engineering and its automation, 2015/09 - 2019/06
 
   HUNAN UNIVERSITY
 
-- MS in Computational Linguistics, 2022
+- MS in Computational Linguistics, 2019/09 - 2022/06
 
   MINZU UNIVERSITY OF CHINA
 
-- MS in Big Data Science, 2022
+- MS in Big Data Science, 2021/01- 2022/02
 
   QUEEN MARY UNIVERSITY OF LONDON
   
@@ -56,12 +56,33 @@ I am now a graduate student in NLP direction. I graduated from [Hunan University
 
 Open Source Contribution
 ======
-## Hands-on data analysis
+## ✨Hands-on data analysis
 **Role**: Project sponsor and content builder
 
-**Introduction**: An open-source data analysis project for everyone to learn by themselves
+**Introduction**: An open-source data analysis project for everyone to learn by themselves.
 
-- Use the Titanic data set to divide tasks according to data observation, data manipulation, data visualization, data modeling, and model evaluation. 
--  Result : **Start** 398; **Fork:** 163
+**Result **: **Start** 398; **Fork:** 163
 
-[Open source link here](https://github.com/datawhalechina/hands-on-data-analysis)
+**Open source link**: [https://github.com/datawhalechina/hands-on-data-analysis](https://github.com/datawhalechina/hands-on-data-analysis)
+
+## Food Voice Recognition(Alibaba-Tianchi-Match)
+
+**Role**：Competition design and content builder
+
+**Introduction**: Datawhale and Alibaba-Tinchi Co-Sponsor Basic Data Science Competition.
+
+**Result **: 
+
+-  Competition link : [https://tianchi.aliyun.com/competition/entrance/531887/information](https://tianchi.aliyun.com/competition/entrance/531887/information ) 
+-  Baseline link: [https://github.com/datawhalechina/team-learning-nlp/tree/d897fca06531e60e5e4402d6198020241e43e00b/FoodVoiceRecognition](https://github.com/datawhalechina/team-learning-nlp/tree/d897fca06531e60e5e4402d6198020241e43e00b/FoodVoiceRecognition)
+- Slide link: [https://docs.google.com/presentation/d/1-U_QbUO_WDIXtvCo45PnDCRsJa0A3_Ur/edit](https://docs.google.com/presentation/d/1-U_QbUO_WDIXtvCo45PnDCRsJa0A3_Ur/edit)
+- Video link:[https://www.bilibili.com/video/BV1Uq4y1E7Di?p=1](https://www.bilibili.com/video/BV1Uq4y1E7Di?p=1)
+
+## Dcoker-Team-Learning
+
+**Role**: Content builder
+
+**Introduction**: This tutorial is a collaborative project with "docker from beginner to practice", and we have reorganized and refactored it based on the original project with the permission of the author.
+
+**Open source link:** [https://github.com/datawhalechina/team-learning-program/tree/518aa9c8d5abb0d344583347f58336da68fe5b8d/Docker](https://github.com/datawhalechina/team-learning-program/tree/518aa9c8d5abb0d344583347f58336da68fe5b8d/Docker)
+
