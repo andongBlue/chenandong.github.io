@@ -52,6 +52,8 @@ I am now a graduate student in NLP direction. I graduated from [Hunan University
 <ul>{% for post in site.talks %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
+# Honors and Awards
+
 
 
 Open Source Contribution
@@ -61,7 +63,7 @@ Open Source Contribution
 
 **Introduction**: An open-source data analysis project for everyone to learn by themselves.
 
-**Result **: **Start** 398; **Fork:** 163
+**Result**: **Start** 398; **Fork:** 163
 
 **Open source link**: [https://github.com/datawhalechina/hands-on-data-analysis](https://github.com/datawhalechina/hands-on-data-analysis)
 
@@ -71,7 +73,7 @@ Open Source Contribution
 
 **Introduction**: Datawhale and Alibaba-Tinchi Co-Sponsor Basic Data Science Competition.
 
-**Result **: 
+**Result: **
 
 -  Competition link : [https://tianchi.aliyun.com/competition/entrance/531887/information](https://tianchi.aliyun.com/competition/entrance/531887/information ) 
 -  Baseline link: [https://github.com/datawhalechina/team-learning-nlp/tree/d897fca06531e60e5e4402d6198020241e43e00b/FoodVoiceRecognition](https://github.com/datawhalechina/team-learning-nlp/tree/d897fca06531e60e5e4402d6198020241e43e00b/FoodVoiceRecognition)
