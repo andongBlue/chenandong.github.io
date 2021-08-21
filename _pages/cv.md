@@ -90,7 +90,7 @@ Projects & Open Source Contribution
 
 ## Food Voice Recognition(Alibaba-Tianchi-Match) 
 
-**Role**：Competition design and content builder
+**Role**：Competition designer and content builder
 
 **Time:** 2021/01-2021/05
 
