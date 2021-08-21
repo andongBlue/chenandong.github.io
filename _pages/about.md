@@ -34,7 +34,7 @@ I am now a graduate student in NLP direction. I graduated from [Hunan University
 
   MINZU UNIVERSITY OF CHINA
 
-- MS in Big Data Science(**Double degree**), 2021/01- 2022/02
+- MS in Big Data Science(**International Exchange&Double degree**), 2021/01- 2022/02
 
   QUEEN MARY UNIVERSITY OF LONDON
   
