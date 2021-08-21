@@ -132,8 +132,7 @@ Projects & Open Source Contribution
 
 **Introduction:** The present invention relates to a service system for automatic generation of reading questions in Tibetan language for elementary school.
 
-Experience
-======
+# Experience
 * Summer 2021: AI Lab Inter
   * Cambricon Technologies Corporation
   * Duties included: Build large pertrain model
