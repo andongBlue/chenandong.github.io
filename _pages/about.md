@@ -66,7 +66,7 @@ I am now a graduate student in NLP direction. I graduated from [Hunan University
 
 - WeBank’s fintech university competition(2th), Top 10(10/100), WeBank & Shenzhen University WeBank Institute of Fintech, 2020
 
-Open Source Contribution
+Open Source Contribution & Project
 ======
 ## Hands-on data analysis✨ 
 **Role**: Project **sponsor** and content builder
@@ -102,6 +102,8 @@ Open Source Contribution
 
 **Introduction**: This tutorial is a collaborative project with "docker from beginner to practice", and we have reorganized and refactored it based on the original project with the permission of the author.
 
+**Result**: **Start** 454; **Fork:** 302
+
 **Open source link:** [🔗](https://github.com/datawhalechina/team-learning-program/tree/518aa9c8d5abb0d344583347f58336da68fe5b8d/Docker)
 
 ## Thorough-pytorch 
@@ -110,9 +112,13 @@ Open Source Contribution
 
 **Time:** 2021/07-Present
 
-**Introduction:**Through team learning, you will be able to master the basic knowledge and content of PyTorch from shallow to deep.
+**Introduction:** Through team learning, you will be able to master the basic knowledge and content of PyTorch from shallow to deep.
+
+**Result**: **Start** 454; **Fork:** 302
 
 **Open source link:** [🔗](https://github.com/datawhalechina/thorough-pytorch/tree/f5f450e1f276aaeae202659f007065a927ce6ee3)
+
+## 
 
 # Interests
 
