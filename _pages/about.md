@@ -69,7 +69,7 @@ I am now a graduate student in NLP direction. I graduated from [Hunan University
 Open Source Contribution
 ======
 ## Hands-on data analysis✨ 
-**Role**: Project sponsor and content builder
+**Role**: Project **sponsor** and content builder
 
 **Time:** 2019/01-2019/05
 
