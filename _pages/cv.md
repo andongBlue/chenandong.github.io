@@ -42,7 +42,7 @@ Experience
   * Duties included: Research low-resource language machine reading comprehension
   * Supervisor: Ph.D. [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
   
-  # Publications
+# Publications
   
 ### JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph
 
