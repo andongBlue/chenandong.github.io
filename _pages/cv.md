@@ -17,36 +17,57 @@ redirect_from:
 
 Education
 ======
-- B.S. in Electrical engineering and its automation, 2019
+- BSc in Electrical engineering and its automation, 2015/09 - 2019/06
 
   HUNAN UNIVERSITY
-  
-- M.S. in Computational Linguistics, 2022
+
+- MS in Computational Linguistics, 2019/09 - 2022/06
 
   MINZU UNIVERSITY OF CHINA
 
-- M.S. in Big Data Science, 2022
+- MS in Big Data Science(**International Exchange&Double Degree**), 2021/01- 2022/02
 
   QUEEN MARY UNIVERSITY OF LONDON
-
-
+  
 Experience
 ======
-* Summer 2021: AI Lab Inter
+* Summer 2021: NLP Research Intern
+  * [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/)
   * Cambricon Technologies Corporation
   * Duties included: Build large pertrain model
   * Supervisor: Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en)
 
-* Spring 2021: Inter
-  * Queen Mary University of London
+* Spring 2021: NLP Research Intern
+  * [Queen Mary University of London](https://www.qmul.ac.uk/)
   * Duties included: Research low-resource language machine reading comprehension
-  * Supervisor: PHD [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
+  * Supervisor: Ph.D. [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  ### JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph
+
+  Yuan Sun, Jiaya Liang, *Andong Chen*, Xiaobing Zhao
+
+  The Twentieth China National Conference on Computational Linguistics, CCL 2021
+
+  **Contributions:** 
+  - Built the TransR and Caps models and completed the whole experiment
+  - Wrote the experimental section
+
+  [Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [Download](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf)
+
+
+  ### A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia
+
+  Yuan Sun, *Andong Chen*, Chaofan Chen, Tianci Xia, Xiaobing Zhao
+
+  The Transactions on Asian and Low-Resource Language Information Processing, 2021
+
+  **Contributions:** 
+  - Built the TransR and Caps models and completed the whole experiment
+  - Wrote the whole paper with Prof. Yuan Sun
+
+  [Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Download](https://dl.acm.org/doi/abs/10.1145/3447248)
   
 Talks
 ======
