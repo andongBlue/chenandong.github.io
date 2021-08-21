@@ -7,5 +7,6 @@ date: 2021-05-29
 venue: 'The Twentieth China National Conference on Computational Linguistics, CCL 2021'
 paperurl: 'https://github.com/andongBlue/chenandong.github.io/tree/master/files/JCapsR.pdf'
 ---
+Yuan Sun, Jiaya Liang, *Andong Chen*, Xiaobing Zhao
 [Download paper here](https://github.com/andongBlue/chenandong.github.io/tree/master/files/JCapsR.pdf)
 
