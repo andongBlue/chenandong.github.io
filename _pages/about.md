@@ -132,7 +132,17 @@ Projects & Open Source Contribution
 
 **Introduction:** The present invention relates to a service system for automatic generation of reading questions in Tibetan language for elementary school.
 
+Experience
+======
+* Summer 2021: AI Lab Inter
+  * Cambricon Technologies Corporation
+  * Duties included: Build large pertrain model
+  * Supervisor: Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en)
 
+* Spring 2021: Inter
+  * Queen Mary University of London
+  * Duties included: Research low-resource language machine reading comprehension
+  * Supervisor: PHD [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
 
 # Misc.
 
