@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+# Contact
+- Tel: (+86)155-2646-6911
+- Email: ands691119@gmail.com
+- Location: Beijing
+- GitHub: https://github.com/andongBlue
+
 Education
 ======
 - B.S. in Electrical engineering and its automation, 2019
