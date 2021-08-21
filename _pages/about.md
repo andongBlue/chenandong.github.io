@@ -51,7 +51,7 @@ Yuan Sun, Jiaya Liang, *Andong Chen*, Xiaobing Zhao
 The Twentieth China National Conference on Computational Linguistics, CCL 2021
 
 **Contributions:** 
-- Built the TransR and Caps models and completed the whole experiment.
+- Built the TransR and Caps models and completed the whole experiment
 - Wrote the experimental section
 
 [Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [Download](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf)
@@ -64,7 +64,7 @@ Yuan Sun, *Andong Chen*, Chaofan Chen, Tianci Xia, Xiaobing Zhao
 The Transactions on Asian and Low-Resource Language Information Processing, 2021
 
 **Contributions:** 
-- Built the TransR and Caps models and completed the whole experiment.
+- Built the TransR and Caps models and completed the whole experiment
 - Wrote the whole paper with Prof. Yuan Sun
 
 [Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Download](https://dl.acm.org/doi/abs/10.1145/3447248)
