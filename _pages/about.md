@@ -11,6 +11,7 @@ I am now a graduate student in NLP direction. I graduated from [Hunan University
 
 我在开源组织承担了一些项目。其中由自己主持的数据分析项目，已经获得了400start和163个fork
 
+| Become Better
 # Recent progress💡
 
 1. Recently, I am working as an intern at Cambricon Technologies Corporation Ai-Lab, mainly working on large-scale pre-training
