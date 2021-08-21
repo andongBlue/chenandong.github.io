@@ -11,3 +11,5 @@ Yuan Sun, Jiaya Liang, *Andong Chen*, Xiaobing Zhao
 
 [Download paper here](https://github.com/andongBlue/chenandong.github.io/tree/master/files/JCapsR.pdf)
 
+![picture_JcapsR]('./picture/jcapsr.png')
+
