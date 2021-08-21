@@ -58,9 +58,11 @@ I am now a graduate student in NLP direction. I graduated from [Hunan University
 # Honors and Awards
 
 # Honors and Awards
-Third Prize Scholarship (10%) , Mizu University of China , 2019-2020
 
-"Huawei Cup" China Post-Graduate Mathematical Contest in Modeling(17th) , Third Prize(15%) ,  The Chinese Society of Academic Degrees and Graduate Education , 2020
+- Third Prize Scholarship (10%) , Mizu University of China , 2019-2020
+
+- "Huawei Cup" China Post-Graduate Mathematical Contest in Modeling(17th) , Third Prize(15%) ,  The Chinese Society of Academic Degrees and Graduate Education , 2020
+
 华为杯数学建模大赛，三等
 
 微众银行算法大赛，Top10
