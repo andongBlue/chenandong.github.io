@@ -9,6 +9,8 @@ redirect_from:
 ---
 I am now a graduate student in NLP direction. I graduated from [Hunan University](http://www-en.hnu.edu.cn/) with an undergraduate degree in Electrical Engineering and Automation. My supervisor was Prof. [Zhigang Ling](http://eeit.hnu.edu.cn/info/1307/4568.htm) who start my research journey about Artificial Intelligence.
 
+
+
 Now I am doing my master's degree in China and National Language Resource and Monitoring Research Center at Minzu University of China and [Queen Mary University of London](https://www.qmul.ac.uk/), supervised by Prof. Xiaobing Zhao, Prof. Yuan Sun and PHD [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en). During this period, I spent summer doing intership in industry. 
 
 Recently I am working on generative pre-trained language model at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), supervised by Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en). 
