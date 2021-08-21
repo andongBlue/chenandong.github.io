@@ -144,5 +144,8 @@ Projects & Open Source Contribution
   * Supervisor: PHD [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
 
 # Misc.
+I hiked 30.8 kilometers of the Silk Road in the summer after College Entrance Examination. I like the feeling of slowly moving forward and seeing the scenery along the way, and looking back to see how far I have moved forward. During college I enjoyed making friends and interacting with all differnet kinds of people. Communication has become a way for me to relax. I also like to communicate when I am alone, reading books and watching movies are the most common things I do.
+
+For sports, I like swimming and badminton. I am recently learning cue sports.
 
 
