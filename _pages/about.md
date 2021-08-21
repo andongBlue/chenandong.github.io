@@ -13,7 +13,7 @@ I am now a graduate student in NLP direction. I graduated from [Hunan University
 
 # Recent progress💡
 
-1. Recently, I am working as an intern at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), mainly working on large-scale pretraining language model.
+1. Recently, I am working as an intern at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), mainly working on **generative pre-trained language model**.
 2. In collaboration with Rosella Galindo Esparza in [Queen Mary University of London](http://compling.eecs.qmul.ac.uk/), a paper is being written on low-resource machine reading comprehension. The paper will be submitted to **ACL**.
 
 # Direction
