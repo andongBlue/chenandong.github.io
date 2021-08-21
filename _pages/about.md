@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now a graduate student in NLP direction. I graduated from [Hunan University](http://www-en.hnu.edu.cn/) with an undergraduate degree in Electrical Engineering and Automation. My supervisor was Prof. [Zhigang Ling](http://eeit.hnu.edu.cn/info/1307/4568.htm) who start my research journey about Artificial Intelligence.
+I graduated from [Hunan University](http://www-en.hnu.edu.cn/) with an undergraduate degree in Electrical Engineering and Automation. My supervisor was Prof. [Zhigang Ling](http://eeit.hnu.edu.cn/info/1307/4568.htm) who start my research journey about Artificial Intelligence.
 
-During my graduate studies, I was given the opportunity to go on an exchange to the UK. In China (2019/09-2020/01; 2022/02-2022/06), I researched on low resources language at the Monitoring Research Center at Minzu University of China, advised by  Prof. Xiaobing Zhao and  Prof. Yuan Sun. In the UK ( 2021/02-2022/01), I study Big Data at [Queen Mary University of London](https://www.qmul.ac.uk/). During my stay in the UK, I am doing research on machine reading comprehension at [Computational Linguistics Lab](http://compling.eecs.qmul.ac.uk/), advised by Ph.D. candidate [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en).
+In China (2019/09-2020/01; 2022/02-2022/06), I researched on low resources language at the Monitoring Research Center at Minzu University of China, advised by  Prof. Xiaobing Zhao and  Prof. Yuan Sun. In the UK ( 2021/02-2022/01), I study Big Data at [Queen Mary University of London](https://www.qmul.ac.uk/). During my stay in the UK, I am doing research on machine reading comprehension at [Computational Linguistics Lab](http://compling.eecs.qmul.ac.uk/), advised by Ph.D. candidate [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en).
 
 Recently I am working on generative pre-trained language model at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), supervised by Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en). 
 
@@ -18,7 +18,7 @@ In open-source contributions, I like to open source what I think is valuable. No
 # Recent progress💡
 
 1. Recently, I am working as a NLP Research Inter  at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), mainly working on **generative pre-trained language model**.
-2. In collaboration with Rosella Galindo Esparza in [Queen Mary University of London](http://compling.eecs.qmul.ac.uk/), a paper is being written on low-resource machine reading comprehension. The paper will be submitted to **ACL**.
+2. In collaboration with [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en) in [Queen Mary University of London](http://compling.eecs.qmul.ac.uk/), a paper is being written on low-resource machine reading comprehension. The paper will be submitted to **ACL**.
 
 # Direction
 
@@ -134,13 +134,13 @@ Projects & Open Source Contribution
 
 # Experience
 * Summer 2021: NLP Research Intern
-  * Institute of Computing Technology, Chinese Academy of Sciences
+  * [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/)
   * Cambricon Technologies Corporation
   * Duties included: Build large pertrain model
   * Supervisor: Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en)
 
 * Spring 2021: NLP Research Intern
-  * Queen Mary University of London
+  * [Queen Mary University of London](https://www.qmul.ac.uk/)
   * Duties included: Research low-resource language machine reading comprehension
   * Supervisor: PHD [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
 
