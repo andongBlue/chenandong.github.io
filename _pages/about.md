@@ -9,7 +9,7 @@ redirect_from:
 ---
 I graduated from [Hunan University](http://www-en.hnu.edu.cn/) with an undergraduate degree in Electrical Engineering and Automation. My supervisor was Prof. [Zhigang Ling](http://eeit.hnu.edu.cn/info/1307/4568.htm) who start my research journey about Artificial Intelligence.
 
-In China (2019/09-2020/01; 2022/02-2022/06), I researched on low resources language at the Monitoring Research Center at Minzu University of China, advised by  Prof. Xiaobing Zhao and  Prof. Yuan Sun. In the UK ( 2021/02-2022/01), I study Big Data at [Queen Mary University of London](https://www.qmul.ac.uk/). During my stay in the UK, I am doing research on machine reading comprehension at [Computational Linguistics Lab](http://compling.eecs.qmul.ac.uk/), advised by Ph.D. candidate [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en).
+In China (2019/09-2020/01; 2022/02-2022/06), I researched on low resources language at China and National Language Resource and Monitoring Research Center in Minzu University of China, advised by  Prof. Xiaobing Zhao and  Prof. Yuan Sun. In the UK ( 2021/02-2022/01), I study Big Data at [Queen Mary University of London](https://www.qmul.ac.uk/). During my stay in the UK, I am doing research on machine reading comprehension at [Computational Linguistics Lab](http://compling.eecs.qmul.ac.uk/), advised by Ph.D. candidate [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en).
 
 Recently I am working on generative pre-trained language model at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), supervised by Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en). 
 
@@ -70,7 +70,7 @@ Yuan Sun, *Andong Chen*, Chaofan Chen, Tianci Xia, Xiaobing Zhao
 The Transactions on Asian and Low-Resource Language Information Processing, 2021
 
 **Contributions:** 
-- Built the TransR and Caps models and completed the whole experiment
+- Built the TransE and CNN models and completed the whole experiment
 - Wrote the whole paper with Prof. Yuan Sun
 
 [Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Download](https://dl.acm.org/doi/abs/10.1145/3447248)
