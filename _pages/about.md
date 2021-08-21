@@ -55,7 +55,6 @@ I am now a graduate student in NLP direction. I graduated from [Hunan University
 <ul>{% for post in site.talks %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
-# Honors and Awards
 
 # Honors and Awards
 
