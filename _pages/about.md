@@ -15,6 +15,12 @@ Recently I am working on generative pre-trained language model at [ICT](http://e
 
 In open-source contributions, I like to open source what I think is valuable. Now I am the project leader of an open source project about data analysis([Hands-on data analysis](https://github.com/datawhalechina/hands-on-data-analysis/blob/master/README-English.md)), which now has **400 starts** and **163 forks**.
 
+# Contact
+- Tel: (+86)155-2646-6911
+- Email: ands691119@gmail.com
+- Location: Beijing
+- GitHub: [https://github.com/andongBlue](https://github.com/andongBlue)
+
 # Recent progress💡
 
 1. Recently, I am working as a NLP Research Inter  at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), mainly working on **generative pre-trained language model**.
