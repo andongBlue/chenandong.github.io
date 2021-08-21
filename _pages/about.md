@@ -66,7 +66,7 @@ I am now a graduate student in NLP direction. I graduated from [Hunan University
 
 - WeBank’s fintech university competition(2th), Top 10(10/100), WeBank & Shenzhen University WeBank Institute of Fintech, 2020
 
-Open Source Contribution & Project
+Projects & Open Source Contribution
 ======
 ## Hands-on data analysis✨ 
 **Role**: Project **sponsor** and content builder
