@@ -10,3 +10,5 @@ paperurl: 'https://dl.acm.org/doi/abs/10.1145/3447248'
 Yuan Sun, *Andong Chen*, Chaofan Chen, Tianci Xia, Xiaobing Zhao
 
 [Download paper here](https://dl.acm.org/doi/abs/10.1145/3447248)
+
+![jointmodel](./picture/jointmodel.png)
