@@ -42,8 +42,7 @@ Experience
   * Duties included: Research low-resource language machine reading comprehension
   * Supervisor: Ph.D. [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
   
-Publications
-======
+  # Publications
   ### JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph
 
   Yuan Sun, Jiaya Liang, *Andong Chen*, Xiaobing Zhao
@@ -57,7 +56,7 @@ Publications
   [Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [Download](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf)
 
 
-  ### A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia
+### A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia
 
   Yuan Sun, *Andong Chen*, Chaofan Chen, Tianci Xia, Xiaobing Zhao
 
