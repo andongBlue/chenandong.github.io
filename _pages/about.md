@@ -9,15 +9,11 @@ redirect_from:
 ---
 I am now a graduate student in NLP direction. I graduated from [Hunan University](http://www-en.hnu.edu.cn/) with an undergraduate degree in Electrical Engineering and Automation. My supervisor was Prof. [Zhigang Ling](http://eeit.hnu.edu.cn/info/1307/4568.htm) who start my research journey about Artificial Intelligence.
 
-
-
-Now I am doing my master's degree in China and National Language Resource and Monitoring Research Center at Minzu University of China and [Queen Mary University of London](https://www.qmul.ac.uk/), supervised by Prof. Xiaobing Zhao, Prof. Yuan Sun and PHD [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en). During this period, I spent summer doing intership in industry. 
+During my graduate studies, I was given the opportunity to go on an exchange to the UK. In China (2019/09-2020/01; 2022/02-2022/06), I researched on low resources language at the Monitoring Research Center at Minzu University of China, advised by  Prof. Xiaobing Zhao and  Prof. Yuan Sun. In the UK ( 2021/02-2022/01), I study Big Data at [Queen Mary University of London](https://www.qmul.ac.uk/). During my stay in the UK, I am doing research on machine reading comprehension at [Computational Linguistics Lab](http://compling.eecs.qmul.ac.uk/), advised by Ph.D. candidate [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en).
 
 Recently I am working on generative pre-trained language model at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), supervised by Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en). 
 
-In the process of programming, I like to open source what I think is valuable. Now I am the project leader of an open source project about data analysis([Hands-on data analysis](https://github.com/datawhalechina/hands-on-data-analysis/blob/master/README-English.md)), which now has **400 starts** and **163 forks**.
-
-我在开源组织承担了一些项目。其中由自己主持的数据分析项目，已经获得了400start和163个fork
+In open-source contributions, I like to open source what I think is valuable. Now I am the project leader of an open source project about data analysis([Hands-on data analysis](https://github.com/datawhalechina/hands-on-data-analysis/blob/master/README-English.md)), which now has **400 starts** and **163 forks**.
 
 # Recent progress💡
 
@@ -138,8 +134,6 @@ Projects & Open Source Contribution
 
 
 
-# Interests
+# Misc.
 
-我喜欢与交流。所以读书和电影是我最喜欢的两件事情。读书是反复的品味作者逻辑与见识的事情。而看电影可以让我沉浸在故事中，与自己互动。
 
-在周末我会去游泳或者羽毛球。
