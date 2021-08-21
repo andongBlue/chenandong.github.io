@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,7 +13,7 @@ redirect_from:
 - Tel: (+86)155-2646-6911
 - Email: ands691119@gmail.com
 - Location: Beijing
-- GitHub: https://github.com/andongBlue
+- GitHub: [https://github.com/andongBlue](https://github.com/andongBlue)
 
 Education
 ======
