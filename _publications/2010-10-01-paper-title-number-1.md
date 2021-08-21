@@ -8,5 +8,6 @@ venue: 'The Twentieth China National Conference on Computational Linguistics, CC
 paperurl: 'https://github.com/andongBlue/chenandong.github.io/tree/master/files/JCapsR.pdf'
 ---
 Yuan Sun, Jiaya Liang, *Andong Chen*, Xiaobing Zhao
+
 [Download paper here](https://github.com/andongBlue/chenandong.github.io/tree/master/files/JCapsR.pdf)
 
