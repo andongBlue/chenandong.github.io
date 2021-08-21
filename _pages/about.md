@@ -63,11 +63,9 @@ I am now a graduate student in NLP direction. I graduated from [Hunan University
 
 - "Huawei Cup" China Post-Graduate Mathematical Contest in Modeling(17th) , Third Prize(15%) ,  The Chinese Society of Academic Degrees and Graduate Education , 2020
 
-华为杯数学建模大赛，三等
+- China College Students' 'Internet+'Innovation and Entrepreneurship Competition(6th), Third Prize(25%), Beijing Municipal Education Commission，2020
 
-微众银行算法大赛，Top10
-
-
+- WeBank’s fintech university competition(2th), Top 10(10/100), WeBank & Shenzhen University WeBank Institute of Fintech, 2020
 
 Open Source Contribution
 ======
