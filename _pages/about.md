@@ -118,7 +118,15 @@ Projects & Open Source Contribution
 
 **Open source link:** [🔗](https://github.com/datawhalechina/thorough-pytorch/tree/f5f450e1f276aaeae202659f007065a927ce6ee3)
 
-## 
+## Patent : A service system for automatic generation of reading questions in Tibetan language for elementary school
+
+**Patent Number:** CN202110228195.5
+
+**Time:** 2021/06/25
+
+**Introduction:** The present invention relates to a service system for automatic generation of reading questions in Tibetan language for elementary school.
+
+
 
 # Interests
 
