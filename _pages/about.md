@@ -87,7 +87,7 @@ Open Source Contribution & Project
 
 **Introduction**: Datawhale and Alibaba-Tinchi Co-Sponsor Basic Data Science Competition.
 
-**Result: **
+**Result:**
 
 -  Competition link :[🔗](https://tianchi.aliyun.com/competition/entrance/531887/information)
 -  Baseline link: [🔗](https://github.com/datawhalechina/team-learning-nlp/tree/d897fca06531e60e5e4402d6198020241e43e00b/FoodVoiceRecognition) 
