@@ -44,19 +44,18 @@ In open-source contributions, I like to open source what I think is valuable. No
   
 
 # Publications
-1. **JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph**
+**JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph**
 
 Yuan Sun, Jiaya Liang, *Andong Chen*, Xiaobing Zhao
 
 The Twentieth China National Conference on Computational Linguistics, CCL 2021
 
 
-
-2. **A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia**
+ **A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia**
 
 Yuan Sun, *Andong Chen*, Chaofan Chen, Tianci Xia, Xiaobing Zhao
 
-Published in The Transactions on Asian and Low-Resource Language Information Processing, 2021
+The Transactions on Asian and Low-Resource Language Information Processing, 2021
 
 # Talks
 <ul>{% for post in site.talks %}
