@@ -11,6 +11,4 @@ Yuan Sun, *Andong Chen*, Chaofan Chen, Tianci Xia, Xiaobing Zhao
 
 [Download paper here](https://dl.acm.org/doi/abs/10.1145/3447248)
 
-![jointmodel](https://github.com/andongBlue/chenandong.github.io/blob/master/_publications/picture/jointmodel.png)
-
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/jointmodel.png'>
