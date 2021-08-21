@@ -101,7 +101,7 @@ Projects & Open Source Contribution
 -  Competition link :[🔗](https://tianchi.aliyun.com/competition/entrance/531887/information)
 -  Baseline link: [🔗](https://github.com/datawhalechina/team-learning-nlp/tree/d897fca06531e60e5e4402d6198020241e43e00b/FoodVoiceRecognition) 
 - Slide link: [🔗](https://docs.google.com/presentation/d/1-U_QbUO_WDIXtvCo45PnDCRsJa0A3_Ur/edit) 
-- Video link:[🔗](https://www.bilibili.com/video/BV1Uq4y1E7Di?p=1)
+- Video link:[🔗 Timestamp: 0:12:00](https://www.bilibili.com/video/BV1Uq4y1E7Di?p=1)
 
 ## Dcoker-Team-Learning 
 
