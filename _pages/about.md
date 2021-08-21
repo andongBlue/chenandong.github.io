@@ -13,8 +13,8 @@ I am now a graduate student in NLP direction. I graduated from [Hunan University
 
 # Recent progress💡
 
-1. Recently, I am working as an intern at Cambricon Technologies Corporation Ai-Lab, mainly working on large-scale pre-training
-2. In collaboration with Rosella Galindo Esparza in Queen Mary University of London, a paper is being written on low resource machine reading comprehension. The paper will be submitted to ACL.
+1. Recently, I am working as an intern at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), mainly working on large-scale pretraining language model.
+2. In collaboration with Rosella Galindo Esparza in [Queen Mary University of London](http://compling.eecs.qmul.ac.uk/), a paper is being written on low-resource machine reading comprehension. The paper will be submitted to **ACL**.
 
 # Direction
 
@@ -34,7 +34,7 @@ I am now a graduate student in NLP direction. I graduated from [Hunan University
 
   MINZU UNIVERSITY OF CHINA
 
-- MS in Big Data Science(Double degree), 2021/01- 2022/02
+- MS in Big Data Science(**Double degree**), 2021/01- 2022/02
 
   QUEEN MARY UNIVERSITY OF LONDON
   
