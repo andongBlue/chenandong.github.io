@@ -57,8 +57,8 @@ In open-source contributions, I like to open source what I think is valuable. No
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
 
-# Open Source Contribution
-
+Open Source Contribution
+======
 ## Hands-on data analysis✨ 
 **Role**: Project **sponsor** and content builder
 
