@@ -34,22 +34,19 @@ In open-source contributions, I like to open source what I think is valuable. No
 - Language Model
 
 # Publications
-1. JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph
+1. JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph([Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [PDF](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf))
 
     Yuan Sun, Jiaya Liang, **Andong Chen** Xiaobing Zhao
 
     The Twentieth China National Conference on Computational Linguistics, CCL 2021 
 
-    [Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [PDF](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf)
 
-
-2. A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia
+2. A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [PDF](https://dl.acm.org/doi/abs/10.1145/3447248))
 
     Yuan Sun, **Andong Chen**, Chaofan Chen, Tianci Xia, Xiaobing Zhao
 
     The Transactions on Asian and Low-Resource Language Information Processing, 2021
 
-    [Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [PDF](https://dl.acm.org/doi/abs/10.1145/3447248)
 
 # Patents 
 1. A service system for automatic generation of reading questions in Tibetan language for elementary school (CN202110228195.5)
