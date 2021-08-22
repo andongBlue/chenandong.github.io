@@ -53,8 +53,6 @@ In open-source contributions, I like to open source what I think is valuable. No
 
 # Patents 
 ### A service system for automatic generation of reading questions in Tibetan language for elementary school (CN202110228195.5)
- Yuan Sun, **Andong Chen**
-
 # Talks
 <ul>{% for post in site.talks %}
   {% include archive-single-talk-cv.html %}
