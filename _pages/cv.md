@@ -138,7 +138,7 @@ Intership Experience
 * Summer 2021: NLP Research Intern
   * [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/)
   * Cambricon Technologies Corporation
-  * Duties included: Build large pertrain model
+  * Duties included: Build a generative pre-trained language model
   * Supervisor: Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en)
 
 * Spring 2021: NLP Research Intern
