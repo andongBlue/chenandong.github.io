@@ -34,25 +34,9 @@ In open-source contributions, I like to open source what I think is valuable. No
 - Machine Reading Comprehension
 - Language Model
 
-# Education
-
-- BSc in Electrical engineering and its automation, 2015/09 - 2019/06
-
-  HUNAN UNIVERSITY
-
-- MS in Computational Linguistics, 2019/09 - 2022/06
-
-  MINZU UNIVERSITY OF CHINA
-
-- MS in Big Data Science(**International Exchange&Double Degree**), 2021/01- 2022/02
-
-  QUEEN MARY UNIVERSITY OF LONDON
-  
-
 # Publications
 ### JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph
-
-Yuan Sun, Jiaya Liang, *Andong Chen*, Xiaobing Zhao
+Yuan Sun, Jiaya Liang, **Andong Chen** Xiaobing Zhao
 
 The Twentieth China National Conference on Computational Linguistics, CCL 2021
 
@@ -60,12 +44,12 @@ The Twentieth China National Conference on Computational Linguistics, CCL 2021
 - Built the TransR and Caps models and completed the whole experiment
 - Wrote the experimental section
 
-[Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [Download](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf)
+[Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [PDF](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf)
 
 
 ### A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia
 
-Yuan Sun, *Andong Chen*, Chaofan Chen, Tianci Xia, Xiaobing Zhao
+Yuan Sun, **Andong Chen**, Chaofan Chen, Tianci Xia, Xiaobing Zhao
 
 The Transactions on Asian and Low-Resource Language Information Processing, 2021
 
@@ -73,7 +57,18 @@ The Transactions on Asian and Low-Resource Language Information Processing, 2021
 - Built the TransE and CNN models and completed the whole experiment
 - Wrote the whole paper with Prof. Yuan Sun
 
-[Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Download](https://dl.acm.org/doi/abs/10.1145/3447248)
+[Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [PDF](https://dl.acm.org/doi/abs/10.1145/3447248)
+
+# Patents 
+### A service system for automatic generation of reading questions in Tibetan language for elementary school 
+
+**Invention Designer:** Yuan Sun, **Andong Chen**
+
+**Patent Number:** CN202110228195.5
+
+**Time:** 2021/06/25
+
+**Introduction:** The present invention relates to a service system for automatic generation of reading questions in Tibetan language for elementary school.
 
 # Talks
 <ul>{% for post in site.talks %}
@@ -141,16 +136,6 @@ Projects & Open Source Contribution
 **Result**: **Start** 454; **Fork:** 302
 
 **Open source link:** [🔗](https://github.com/datawhalechina/thorough-pytorch/tree/f5f450e1f276aaeae202659f007065a927ce6ee3)
-
-## Patent : A service system for automatic generation of reading questions in Tibetan language for elementary school 
-
-**Invention Designer:** Yuan Sun, *Andong Chen*
-
-**Patent Number:** CN202110228195.5
-
-**Time:** 2021/06/25
-
-**Introduction:** The present invention relates to a service system for automatic generation of reading questions in Tibetan language for elementary school.
 
 # Intership Experience
 * Summer 2021: NLP Research Intern
