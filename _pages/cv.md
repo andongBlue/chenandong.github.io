@@ -137,3 +137,18 @@ Projects & Open Source Contribution
 
 **Introduction:** The present invention relates to a service system for automatic generation of reading questions in Tibetan language for elementary school.
 
+# Honors and Awards
+
+- Third Prize Scholarship (10%) , Mizu University of China , 2019-2020
+
+- "Huawei Cup" China Post-Graduate Mathematical Contest in Modeling(17th) , Third Prize(15%) ,  The Chinese Society of Academic Degrees and Graduate Education , 2020
+
+- China College Students' 'Internet+'Innovation and Entrepreneurship Competition(6th), Third Prize(25%), Beijing Municipal Education Commission，2020
+
+- WeBank’s fintech university competition(2th), Top 10(10/100), WeBank & Shenzhen University WeBank Institute of Fintech, 2020
+
+# Skills
+- Programming Languages: Python, R, Java
+- Frameworks: Pytorch, Kreas
+- Tools for NLP/ML: Huggingface-transformers, Sklearn, NLTK, Pandas, Numpy 
+- Others and Soft Skills: LaTex, Markdown, Linux, Shell, Anaconda
