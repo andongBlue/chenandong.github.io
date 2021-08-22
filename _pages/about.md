@@ -37,13 +37,9 @@ In open-source contributions, I like to open source what I think is valuable. No
 1. JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph
     Yuan Sun, Jiaya Liang, **Andong Chen** Xiaobing Zhao
 
-    The Twentieth China National Conference on Computational Linguistics, CCL 2021
+    The Twentieth China National Conference on Computational Linguistics, CCL 2021 
 
-    **Contributions:** 
-    - Built the TransR and Caps models and completed the whole experiment
-    - Wrote the experimental section
-
- [Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1)[PDF](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf)
+    [Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [PDF](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf)
 
 
 2. A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia
@@ -51,10 +47,6 @@ In open-source contributions, I like to open source what I think is valuable. No
     Yuan Sun, **Andong Chen**, Chaofan Chen, Tianci Xia, Xiaobing Zhao
 
     The Transactions on Asian and Low-Resource Language Information Processing, 2021
-
-    **Contributions:** 
-    - Built the TransE and CNN models and completed the whole experiment
-    - Wrote the whole paper with Prof. Yuan Sun
 
     [Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [PDF](https://dl.acm.org/doi/abs/10.1145/3447248)
 
