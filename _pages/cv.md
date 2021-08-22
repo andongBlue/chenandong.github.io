@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 Full Resume in [PDF](https://github.com/andongBlue/chenandong.github.io/blob/master/files/CV_Andong_Chen.pdf).
 # Contact
@@ -29,7 +28,7 @@ Education
 
   QUEEN MARY UNIVERSITY OF LONDON
   
-Experience
+Intership Experience
 ======
 * Summer 2021: NLP Research Intern
   * [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/)

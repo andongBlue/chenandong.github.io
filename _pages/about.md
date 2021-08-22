@@ -152,7 +152,7 @@ Projects & Open Source Contribution
 
 **Introduction:** The present invention relates to a service system for automatic generation of reading questions in Tibetan language for elementary school.
 
-# Experience
+# Intership Experience
 * Summer 2021: NLP Research Intern
   * [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/)
   * Cambricon Technologies Corporation
