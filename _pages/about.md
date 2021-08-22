@@ -26,7 +26,7 @@ In open-source contributions, I like to open source what I think is valuable. No
 1. Recently, I am working as a NLP Research Intern  at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), mainly working on **generative pre-trained language model**.
 2. In collaboration with [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en) in [Queen Mary University of London](http://compling.eecs.qmul.ac.uk/), a paper is being written on **low-resource machine reading comprehension**. The paper will be submitted to **ACL**.
 
-# Direction
+# Research Interests
 - Artificial Intelligence
 - Computational Linguistics
 - Natural Language Processing
