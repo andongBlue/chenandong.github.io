@@ -131,6 +131,7 @@ Projects & Open Source Contribution
   * Duties included: Research low-resource language machine reading comprehension
   * Supervisor: Ph.D. [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
   
+  
   # Honors and Awards
 
   - Third Prize Scholarship (10%) , Mizu University of China , 2019-2020
