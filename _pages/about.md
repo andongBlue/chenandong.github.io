@@ -96,11 +96,8 @@ In open-source contributions, I like to open source what I think is valuable. No
 # Honors and Awards
 
 - "Huawei Cup" China Post-Graduate Mathematical Contest in Modeling(17th), Third Prize(**15%**), The Chinese Society of Academic Degrees and Graduate Education, 2020
-
 - China College Students' 'Internet+'Innovation and Entrepreneurship Competition(6th), Third Prize(**25%**), Beijing Municipal Education Commission, 2020
-
 - WeBank’s fintech university competition(2th), Top 10(**10/100**), WeBank & Shenzhen University WeBank Institute of Fintech, 2020
-
 - Third Prize Scholarship (**10%**), Mizu University of China, 2019-2020
 
 # Misc.
