@@ -61,7 +61,7 @@ In open-source contributions, I like to open source what I think is valuable. No
 * Hands-on data analysis✨
   * **Role**: Project **sponsor** and content builder
   * **Time:** 2019/01-2019/05
-  * **Introduction**: An open-source data analysis project for everyone to learn by themselves
+  * **Introduction**: An open-source data analysis project for everyone to learn by them- selves
   * **Result**: [Github](https://github.com/datawhalechina/hands-on-data-analysis), 400 **Starts**, 163 **Forks**
 * Food Voice Recognition(Alibaba-Tianchi-Match)
   * **Role**：Competition designer and content builder
