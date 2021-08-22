@@ -86,7 +86,7 @@ In open-source contributions, I like to open source something that I think is va
 * Food Voice Recognition(Alibaba-Tianchi-Match)
   * Role：Competition **designer** and content builder
   * Time: 2021/01-2021/05
-  * Introduction: Datawhale and Alibaba-Tinchi Co-Sponsor Basic Data Science Competition
+  * Introduction: Datawhale and Alibaba-Tianchi Co-Sponsor Basic Data Science Competition
   * Result: [Competition](https://tianchi.aliyun.com/competition/entrance/531887/information), [Baseline](https://github.com/datawhalechina/team-learning-nlp/tree/d897fca06531e60e5e4402d6198020241e43e00b/FoodVoiceRecognition), [Slide](https://docs.google.com/presentation/d/1-U_QbUO_WDIXtvCo45PnDCRsJa0A3_Ur/edit), [Video](https://www.bilibili.com/video/BV1Uq4y1E7Di?p=1)
 
 * Dcoker-Team-Learning 
