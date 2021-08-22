@@ -61,7 +61,7 @@ In open-source contributions, I like to open source what I think is valuable. No
 * Hands-on data analysis✨
   * **Role**: Project **sponsor** and content builder
   * **Time:** 2019/01-2019/05
-  * **Introduction**: An open-source data analysis project for everyone to learn by them- selves
+  * **Introduction**: An open-source data analysis project for everyone to learn by themselves
   * **Result**: [Github](https://github.com/datawhalechina/hands-on-data-analysis), 400 **Starts**, 163 **Forks**
 * Food Voice Recognition(Alibaba-Tianchi-Match)
   * **Role**：Competition designer and content builder
@@ -95,13 +95,13 @@ In open-source contributions, I like to open source what I think is valuable. No
 
 # Honors and Awards
 
-- Third Prize Scholarship (10%) , Mizu University of China , 2019-2020
+- Third Prize Scholarship (**10%**) , Mizu University of China , 2019-2020
 
-- "Huawei Cup" China Post-Graduate Mathematical Contest in Modeling(17th) , Third Prize(15%) ,  The Chinese Society of Academic Degrees and Graduate Education , 2020
+- "Huawei Cup" China Post-Graduate Mathematical Contest in Modeling(17th) , Third Prize(**15%**) ,  The Chinese Society of Academic Degrees and Graduate Education , 2020
 
-- China College Students' 'Internet+'Innovation and Entrepreneurship Competition(6th), Third Prize(25%), Beijing Municipal Education Commission，2020
+- China College Students' 'Internet+'Innovation and Entrepreneurship Competition(6th), Third Prize(**25%**), Beijing Municipal Education Commission，2020
 
-- WeBank’s fintech university competition(2th), Top 10(10/100), WeBank & Shenzhen University WeBank Institute of Fintech, 2020
+- WeBank’s fintech university competition(2th), Top 10(**10/100**), WeBank & Shenzhen University WeBank Institute of Fintech, 2020
 
 # Misc.
 I hiked 30.8 kilometers of the [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) in the summer after College Entrance Examination. I like the feeling of slowly moving forward and seeing the scenery along the way, and looking back to see how far I have moved forward. During college I enjoyed making friends and interacting with all differnet kinds of people. Communication has become a way for me to relax. I also like to communicate when I am alone, reading books and watching movies are the most common things I do.
