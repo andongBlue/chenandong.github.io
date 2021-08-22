@@ -9,9 +9,9 @@ redirect_from:
 ---
 - Email: ands691119@gmail.com
 
-- Github: [https://github.com/andongBlue](https://github.com/andongBlue)
+- [Github](https://github.com/andongBlue)
 
-- Zhihu: [https://www.zhihu.com/people/wang-ya-fei-48](https://www.zhihu.com/people/wang-ya-fei-48)
+- [Zhihu](https://www.zhihu.com/people/wang-ya-fei-48)
 
 # Biography 
 
