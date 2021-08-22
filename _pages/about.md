@@ -34,14 +34,14 @@ In open-source contributions, I like to open source what I think is valuable. No
 - Language Model
 
 # Publications
-1. JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [PDF](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf))
+1. JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [Pdf](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf))
 
     Yuan Sun, Jiaya Liang, **Andong Chen** Xiaobing Zhao
 
     The Twentieth China National Conference on Computational Linguistics, CCL 2021 
 
 
-2. A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [PDF](https://dl.acm.org/doi/abs/10.1145/3447248))
+2. A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Pdf](https://dl.acm.org/doi/abs/10.1145/3447248))
 
     Yuan Sun, **Andong Chen**, Chaofan Chen, Tianci Xia, Xiaobing Zhao
 
@@ -95,13 +95,13 @@ In open-source contributions, I like to open source what I think is valuable. No
 
 # Honors and Awards
 
-- Third Prize Scholarship (**10%**) , Mizu University of China , 2019-2020
+- "Huawei Cup" China Post-Graduate Mathematical Contest in Modeling(17th), Third Prize(**15%**), The Chinese Society of Academic Degrees and Graduate Education, 2020
 
-- "Huawei Cup" China Post-Graduate Mathematical Contest in Modeling(17th) , Third Prize(**15%**) ,  The Chinese Society of Academic Degrees and Graduate Education , 2020
-
-- China College Students' 'Internet+'Innovation and Entrepreneurship Competition(6th), Third Prize(**25%**), Beijing Municipal Education Commission，2020
+- China College Students' 'Internet+'Innovation and Entrepreneurship Competition(6th), Third Prize(**25%**), Beijing Municipal Education Commission, 2020
 
 - WeBank’s fintech university competition(2th), Top 10(**10/100**), WeBank & Shenzhen University WeBank Institute of Fintech, 2020
+
+- Third Prize Scholarship (**10%**), Mizu University of China, 2019-2020
 
 # Misc.
 I hiked 30.8 kilometers of the [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) in the summer after College Entrance Examination. I like the feeling of slowly moving forward and seeing the scenery along the way, and looking back to see how far I have moved forward. During college I enjoyed making friends and interacting with all differnet kinds of people. Communication has become a way for me to relax. I also like to communicate when I am alone, reading books and watching movies are the most common things I do.
