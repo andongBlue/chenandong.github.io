@@ -54,25 +54,25 @@ In open-source contributions, I like to open source what I think is valuable. No
 
 # Talks
 
-- [Alibaba Could-TianChi: Speech Recognition Novice Competition](https://andongblue.github.io/chenandong.github.io//talks/2014-03-01-talk-3)
+- Alibaba Could-TianChi: Speech Recognition Novice Competition [Slide](https://docs.google.com/presentation/d/1-U_QbUO_WDIXtvCo45PnDCRsJa0A3_Ur/edit#slide=id.p31), [Video](https://www.bilibili.com/video/BV1Uq4y1E7Di?p=1)
 
    June 30, 2021
 
   Invited Talk at Alibaba Could-TianChi-Novice Competition, Beijing
 
-- [Bert and Machine Reading Comprehension](https://andongblue.github.io/chenandong.github.io//talks/2013-03-01-tutorial-1)
+- Bert and Machine Reading Comprehension [Slide](https://docs.google.com/presentation/d/1-XsWOw74WX5GOpp9FYv3WieMbH2ZzKCe/edit#slide=id.p1), [Video](https://www.bilibili.com/video/BV1ww411R7D7)
 
    July 28, 2021
 
   Invited Talk at Datawhale and Graviti, Beijing
 
-- [Open-source: Open source yourself](https://andongblue.github.io/chenandong.github.io//talks/2014-02-01-talk-2)
+- Open-source: Open source yourself [Slide](https://docs.google.com/presentation/d/1slOX0JeNf1la_Zw6jF1nXUteH0OFKMmf/edit#slide=id.p1)
 
    August 02, 2021
 
   Invited Talk at Institute of Computing Technology, Chinese Academy, Beijing
 
-- [Paper Share: ERNIE 3.0]([](https://andongblue.github.io/chenandong.github.io//talks/2012-03-01-talk-1))
+- [WhalePaper: ERNIE 3.0] [Slide](https://docs.google.com/presentation/d/1eIdTpL9w5-fLGqPDX5ZqX1ErCLYI9hHp/edit)
 
    August 10, 2021
 
