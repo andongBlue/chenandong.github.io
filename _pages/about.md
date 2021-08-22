@@ -1,12 +1,19 @@
 ---
 permalink: /
-title: "Biography"
+title: "Contact"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+- Tel: (+86)155-2646-6911
+- Email: ands691119@gmail.com
+- Location: Beijing
+- GitHub: [https://github.com/andongBlue](https://github.com/andongBlue)
+
+# Biography 
+
 I graduated from [Hunan University](http://www-en.hnu.edu.cn/) with an undergraduate degree in Electrical Engineering and Automation. My supervisor was Prof. [Zhigang Ling](http://eeit.hnu.edu.cn/info/1307/4568.htm) who start my research journey about Artificial Intelligence.
 
 In China (2019/09-2020/01; 2022/02-2022/06), I researched on low resources language at China and National Language Resource and Monitoring Research Center in Minzu University of China, advised by  Prof. Xiaobing Zhao and  Prof. Yuan Sun. In the UK ( 2021/02-2022/01), My major is Big Data Science at [Queen Mary University of London](https://www.qmul.ac.uk/). During my stay in the UK, I am doing research on machine reading comprehension at [Computational Linguistics Lab](http://compling.eecs.qmul.ac.uk/), advised by Ph.D. candidate [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en).
@@ -14,12 +21,6 @@ In China (2019/09-2020/01; 2022/02-2022/06), I researched on low resources langu
 Recently I am working on generative pre-trained language model at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), supervised by Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en). 
 
 In open-source contributions, I like to open source what I think is valuable. Now I am the project leader of an open source project about data analysis([Hands-on data analysis](https://github.com/datawhalechina/hands-on-data-analysis/blob/master/README-English.md)), which now has **400 starts** and **163 forks**.
-
-# Contact
-- Tel: (+86)155-2646-6911
-- Email: ands691119@gmail.com
-- Location: Beijing
-- GitHub: [https://github.com/andongBlue](https://github.com/andongBlue)
 
 # Recent progress💡
 
