@@ -83,11 +83,11 @@ author:
   name             : "Andong Chen"
   avatar           : "personal.jpeg"
   bio              : "Become better"
-  location         : "Beijing"
+  location         : #"Beijing"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "ands691119@gmail.com"
+  email            : #"ands691119@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "andongBlue"
+  github           : #"andongBlue"
   google_plus      :
   keybase          :
   instagram        :

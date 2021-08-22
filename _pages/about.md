@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- Tel: (+86)155-2646-6911
-- Email: ands691119@gmail.com
-- Location: Beijing
-- GitHub: [https://github.com/andongBlue](https://github.com/andongBlue)
+☎️: (+86)155-2646-6911
+
+📧: ands691119@gmail.com
+
+💻: [https://github.com/andongBlue](https://github.com/andongBlue)
 
 # Biography 
 
