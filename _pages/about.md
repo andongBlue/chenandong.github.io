@@ -74,7 +74,7 @@ In open-source contributions, I like to open source what I think is valuable. No
 
    August 10, 2021
 
-  Invited Talk at DatawhalePaper, Beijing
+  Invited Talk at WhalePaper, Beijing
 
 # Open Source Contribution
 
