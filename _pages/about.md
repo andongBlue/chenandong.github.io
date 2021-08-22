@@ -79,7 +79,7 @@ In open-source contributions, I like to open source what I think is valuable. No
   * **Role**: Content builder
   * **Time:** 2021/07-Present
   * **Introduction:** Through team learning, you will be able to master the basic knowledge and content of PyTorch from shallow to deep
-  * **Result**: 454 **Starts** , 302 **Forks**,  [Open source](https://github.com/datawhalechina/thorough-pytorch/tree/f5f450e1f276aaeae202659f007065a927ce6ee3)
+  * **Result**: 454 **Starts** , 302 **Forks**,  [Github](https://github.com/datawhalechina/thorough-pytorch/tree/f5f450e1f276aaeae202659f007065a927ce6ee3)
 
 # Intership Experience
 * Summer 2021: NLP Research Intern
