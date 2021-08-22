@@ -59,15 +59,8 @@ The Transactions on Asian and Low-Resource Language Information Processing, 2021
 [Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [PDF](https://dl.acm.org/doi/abs/10.1145/3447248)
 
 # Patents 
-### A service system for automatic generation of reading questions in Tibetan language for elementary school 
-
-**Invention Designer:** Yuan Sun, **Andong Chen**
-
-**Patent Number:** CN202110228195.5
-
-**Time:** 2021/06/25
-
-**Introduction:** The present invention relates to a service system for automatic generation of reading questions in Tibetan language for elementary school.
+### A service system for automatic generation of reading questions in Tibetan language for elementary school (CN202110228195.5)
+ Yuan Sun, **Andong Chen**
 
 # Talks
 <ul>{% for post in site.talks %}
