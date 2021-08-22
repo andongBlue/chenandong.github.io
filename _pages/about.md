@@ -52,7 +52,9 @@ In open-source contributions, I like to open source what I think is valuable. No
     [Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [PDF](https://dl.acm.org/doi/abs/10.1145/3447248)
 
 # Patents 
-### A service system for automatic generation of reading questions in Tibetan language for elementary school (CN202110228195.5)
+1. A service system for automatic generation of reading questions in Tibetan language for elementary school (CN202110228195.5)
+2. 待审核
+
 # Talks
 <ul>{% for post in site.talks %}
   {% include archive-single-talk-cv.html %}
