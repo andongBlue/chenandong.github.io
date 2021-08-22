@@ -53,9 +53,31 @@ In open-source contributions, I like to open source what I think is valuable. No
 2. A representation method for Tibetan knowledge base(Submitted)
 
 # Talks
-<ul>{% for post in site.talks %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
+
+- [Alibaba Could-TianChi: Speech Recognition Novice Competition](https://andongblue.github.io/chenandong.github.io//talks/2014-03-01-talk-3)
+
+   June 30, 2021
+
+  Invited Talk at Alibaba Could-TianChi-Novice Competition, Beijing
+
+- [Bert and Machine Reading Comprehension](https://andongblue.github.io/chenandong.github.io//talks/2013-03-01-tutorial-1)
+
+   July 28, 2021
+
+  Invited Talk at Datawhale and Graviti, Beijing
+
+- [Open-source: Open source yourself](https://andongblue.github.io/chenandong.github.io//talks/2014-02-01-talk-2)
+
+   August 02, 2021
+
+  Invited Talk at Institute of Computing Technology, Chinese Academy, Beijing
+
+- [Paper Share: ERNIE 3.0]([](https://andongblue.github.io/chenandong.github.io//talks/2012-03-01-talk-1))
+
+   August 10, 2021
+
+  Invited Talk at DatawhalePaper, Beijing
+
 # Open Source Contribution
 
 * Hands-on data analysis✨
