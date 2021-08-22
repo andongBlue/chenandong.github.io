@@ -55,6 +55,7 @@ In open-source contributions, I like to open source what I think is valuable. No
     **Contributions:** 
     - Built the TransE and CNN models and completed the whole experiment
     - Wrote the whole paper with Prof. Yuan Sun
+
     [Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [PDF](https://dl.acm.org/doi/abs/10.1145/3447248)
 
 # Patents 
