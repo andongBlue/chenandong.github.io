@@ -75,16 +75,6 @@ The Transactions on Asian and Low-Resource Language Information Processing, 2021
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
 
-# Honors and Awards
-
-- Third Prize Scholarship (10%) , Mizu University of China , 2019-2020
-
-- "Huawei Cup" China Post-Graduate Mathematical Contest in Modeling(17th) , Third Prize(15%) ,  The Chinese Society of Academic Degrees and Graduate Education , 2020
-
-- China College Students' 'Internet+'Innovation and Entrepreneurship Competition(6th), Third Prize(25%), Beijing Municipal Education Commission，2020
-
-- WeBank’s fintech university competition(2th), Top 10(10/100), WeBank & Shenzhen University WeBank Institute of Fintech, 2020
-
 Projects & Open Source Contribution
 ======
 ## Hands-on data analysis✨ 
@@ -136,7 +126,6 @@ Projects & Open Source Contribution
 **Result**: **Start** 454; **Fork:** 302
 
 **Open source link:** [🔗](https://github.com/datawhalechina/thorough-pytorch/tree/f5f450e1f276aaeae202659f007065a927ce6ee3)
-
 # Intership Experience
 * Summer 2021: NLP Research Intern
   * [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/)
@@ -148,7 +137,15 @@ Projects & Open Source Contribution
   * [Queen Mary University of London](https://www.qmul.ac.uk/)
   * Duties included: Research low-resource language machine reading comprehension
   * Supervisor: Ph.D. [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
+  # Honors and Awards
 
+  - Third Prize Scholarship (10%) , Mizu University of China , 2019-2020
+
+  - "Huawei Cup" China Post-Graduate Mathematical Contest in Modeling(17th) , Third Prize(15%) ,  The Chinese Society of Academic Degrees and Graduate Education , 2020
+
+  - China College Students' 'Internet+'Innovation and Entrepreneurship Competition(6th), Third Prize(25%), Beijing Municipal Education Commission，2020
+
+  - WeBank’s fintech university competition(2th), Top 10(10/100), WeBank & Shenzhen University WeBank Institute of Fintech, 2020
 # Misc.
 I hiked 30.8 kilometers of the [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) in the summer after College Entrance Examination. I like the feeling of slowly moving forward and seeing the scenery along the way, and looking back to see how far I have moved forward. During college I enjoyed making friends and interacting with all differnet kinds of people. Communication has become a way for me to relax. I also like to communicate when I am alone, reading books and watching movies are the most common things I do.
 
