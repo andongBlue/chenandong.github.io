@@ -13,11 +13,11 @@ redirect_from:
 
 I graduated from [Hunan University](http://www-en.hnu.edu.cn/) with an undergraduate degree in Electrical Engineering and Automation. My supervisor was Prof. [Zhigang Ling](http://eeit.hnu.edu.cn/info/1307/4568.htm) who start my research journey about Artificial Intelligence.
 
-In China (2019/09-2020/01; 2022/02-2022/06), I researched on low resources language at China and National Language Resource and Monitoring Research Center in Minzu University of China, advised by  Prof. Xiaobing Zhao and  Prof. Yuan Sun. In the UK ( 2021/02-2022/01), My major is Big Data Science at [Queen Mary University of London](https://www.qmul.ac.uk/). During my stay in the UK, I am doing research on machine reading comprehension at [Computational Linguistics Lab](http://compling.eecs.qmul.ac.uk/), advised by Ph.D. candidate [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en).
+In China (2019/09-2020/01; 2022/02-2022/06), I researched on low resources language at *China and National Language Resource and Monitoring Research Center* in Minzu University of China, advised by  Prof. Xiaobing Zhao and  Prof. Yuan Sun. In the UK ( 2021/02-2022/01), My major is Big Data Science at [Queen Mary University of London](https://www.qmul.ac.uk/). During my stay in the UK, I am doing research on machine reading comprehension at [*Computational Linguistics Lab*](http://compling.eecs.qmul.ac.uk/), advised by Ph.D. candidate [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en).
 
 Recently I am working on generative pre-trained language model at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), supervised by Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en). 
 
-In open-source contributions, I like to open source what I think is valuable. Now I am the project leader of an open source project about data analysis([Hands-on data analysis](https://github.com/datawhalechina/hands-on-data-analysis)), which now has **400 starts** and **163 forks**.
+In open-source contributions, I like to open source something that I think is valuable. Now I am the project leader of an open source project about data analysis([Hands-on data analysis](https://github.com/datawhalechina/hands-on-data-analysis)), which now has **400 starts** and **163 forks**.
 
 # Recent progress💡
 
@@ -36,14 +36,14 @@ In open-source contributions, I like to open source what I think is valuable. No
 
     Yuan Sun, Jiaya Liang, **Andong Chen** Xiaobing Zhao
 
-    The Twentieth China National Conference on Computational Linguistics, CCL 2021 
+    *The Twentieth China National Conference on Computational Linguistics, CCL 2021* 
 
 
 2. A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Pdf](https://dl.acm.org/doi/abs/10.1145/3447248))
 
     Yuan Sun, **Andong Chen**, Chaofan Chen, Tianci Xia, Xiaobing Zhao
 
-    The Transactions on Asian and Low-Resource Language Information Processing, 2021
+    *The Transactions on Asian and Low-Resource Language Information Processing, 2021*
 
 
 # Patents 
@@ -84,7 +84,7 @@ In open-source contributions, I like to open source what I think is valuable. No
   * Introduction: An open-source data analysis project for everyone to learn by themselves
   * Result: [Github](https://github.com/datawhalechina/hands-on-data-analysis), **400 Starts**, **163 Forks**
 * Food Voice Recognition(Alibaba-Tianchi-Match)
-  * Role：Competition designer and content builder
+  * Role：Competition **designer** and content builder
   * Time: 2021/01-2021/05
   * Introduction: Datawhale and Alibaba-Tinchi Co-Sponsor Basic Data Science Competition
   * Result: [Competition](https://tianchi.aliyun.com/competition/entrance/531887/information), [Baseline](https://github.com/datawhalechina/team-learning-nlp/tree/d897fca06531e60e5e4402d6198020241e43e00b/FoodVoiceRecognition), [Slide](https://docs.google.com/presentation/d/1-U_QbUO_WDIXtvCo45PnDCRsJa0A3_Ur/edit), [Video](https://www.bilibili.com/video/BV1Uq4y1E7Di?p=1)
@@ -104,12 +104,13 @@ In open-source contributions, I like to open source what I think is valuable. No
 # Intership Experience
 * Summer 2021: NLP Research Intern
   * [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/)
-  * Cambricon Technologies Corporation
-  * Duties included: Build a generative pre-trained language model
+  * [Cambricon Technologies Corporation](https://www.cambricon.com/)
+  * Main Work: Build a generative pre-trained language model
   * Supervisor: Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en)
 * Spring 2021: NLP Research Intern
   * [Queen Mary University of London](https://www.qmul.ac.uk/)
-  * Duties included: Research low-resource language machine reading comprehension
+  * [*Computational Linguistics Lab*](http://compling.eecs.qmul.ac.uk/)
+  * Main Work: Research low-resource language machine reading comprehension
   * Supervisor: Ph.D. [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
   
 
