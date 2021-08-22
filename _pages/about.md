@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-☎️: (+86)155-2646-6911
+Email: ands691119@gmail.com
 
-📧: ands691119@gmail.com
-
-💻: [https://github.com/andongBlue](https://github.com/andongBlue)
+Github: [https://github.com/andongBlue](https://github.com/andongBlue)
 
 # Biography 
 
