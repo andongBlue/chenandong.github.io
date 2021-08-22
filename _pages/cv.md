@@ -27,20 +27,7 @@ Education
 - MS in Big Data Science(**International Exchange&Double Degree**), 2021/01- 2022/02
 
   QUEEN MARY UNIVERSITY OF LONDON
-  
-Intership Experience
-======
-* Summer 2021: NLP Research Intern
-  * [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/)
-  * Cambricon Technologies Corporation
-  * Duties included: Build large pertrain model
-  * Supervisor: Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en)
-
-* Spring 2021: NLP Research Intern
-  * [Queen Mary University of London](https://www.qmul.ac.uk/)
-  * Duties included: Research low-resource language machine reading comprehension
-  * Supervisor: Ph.D. [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
-  
+    
 # Publications
   
 ### JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph
@@ -145,6 +132,19 @@ Projects & Open Source Contribution
 - China College Students' 'Internet+'Innovation and Entrepreneurship Competition(6th), Third Prize(25%), Beijing Municipal Education Commission，2020
 
 - WeBank’s fintech university competition(2th), Top 10(10/100), WeBank & Shenzhen University WeBank Institute of Fintech, 2020
+
+Intership Experience
+======
+* Summer 2021: NLP Research Intern
+  * [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/)
+  * Cambricon Technologies Corporation
+  * Duties included: Build large pertrain model
+  * Supervisor: Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en)
+
+* Spring 2021: NLP Research Intern
+  * [Queen Mary University of London](https://www.qmul.ac.uk/)
+  * Duties included: Research low-resource language machine reading comprehension
+  * Supervisor: Ph.D. [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
 
 # Skills
 - Programming Languages: Python, R, Java
