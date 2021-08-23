@@ -17,7 +17,7 @@ In China (2019/09-2020/01; 2022/02-2022/06), I researched on low resources langu
 
 Recently I am working on generative pre-trained language model at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), supervised by Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en). 
 
-In open-source contributions, I like to open source something that I think is valuable. Now I am the project leader of an open source project about data analysis([Hands-on data analysis](https://github.com/datawhalechina/hands-on-data-analysis)), which now has **400 starts** and **163 forks**.
+In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about data analysis([Hands-on data analysis](https://github.com/datawhalechina/hands-on-data-analysis)), which now has **400 starts** and **163 forks**.
 
 # Recent progress💡
 
