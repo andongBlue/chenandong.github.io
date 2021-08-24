@@ -74,7 +74,13 @@ In open-source contributions, I like to share something that I think is valuable
 
    August 10, 2021
 
-  Invited Talk at WhalePaper, Beijing
+   Invited Talk at WhalePaper, Beijing
+   
+- Transformer-Position ([Slide](https://docs.google.com/presentation/d/1TS138lpIlHyY8zCDtFYeqF4mLMcxgb0z/edit#slide=id.p1))
+   
+   August 24, 2021
+
+   Invited Talk at Institute of Computing Technology, Chinese Academy, Beijing
 
 # Open Source Contribution
 
