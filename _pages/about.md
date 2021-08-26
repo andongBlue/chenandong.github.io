@@ -118,7 +118,10 @@ In open-source contributions, I like to share something that I think is valuable
   * [*Computational Linguistics Lab*](http://compling.eecs.qmul.ac.uk/)
   * Main Work: Research low-resource language machine reading comprehension
   * Supervisor: Ph.D. [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
-  
+* Summer 2019: Could Computing Intern
+  * [ISangfor Technologies Inc. ](https://www.sangfor.com/en)
+  * Main Work: Desktop Cloud Development
+
 
 # Honors and Awards
 
