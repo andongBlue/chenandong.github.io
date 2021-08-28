@@ -32,18 +32,19 @@ In open-source contributions, I like to share something that I think is valuable
 - Language Model
 
 # Publications
-1. JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [Pdf](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf))
+1. A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Pdf](https://dl.acm.org/doi/abs/10.1145/3447248))
+
+    Yuan Sun, **Andong Chen**, Chaofan Chen, Tianci Xia, Xiaobing Zhao
+
+    *The Transactions on Asian and Low-Resource Language Information Processing, 2021*
+    
+2. JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [Pdf](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf))
 
     Yuan Sun, Jiaya Liang, **Andong Chen** Xiaobing Zhao
 
     *The Twentieth China National Conference on Computational Linguistics, CCL 2021* 
 
 
-2. A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Pdf](https://dl.acm.org/doi/abs/10.1145/3447248))
-
-    Yuan Sun, **Andong Chen**, Chaofan Chen, Tianci Xia, Xiaobing Zhao
-
-    *The Transactions on Asian and Low-Resource Language Information Processing, 2021*
 
 
 # Patents 
@@ -77,7 +78,7 @@ In open-source contributions, I like to share something that I think is valuable
    Invited Talk at WhalePaper, Beijing
    
 - Transformer-Position ([Slide](https://docs.google.com/presentation/d/1TS138lpIlHyY8zCDtFYeqF4mLMcxgb0z/edit#slide=id.p1))
-   
+  
    August 24, 2021
 
    Invited Talk at Institute of Computing Technology, Chinese Academy, Beijing
