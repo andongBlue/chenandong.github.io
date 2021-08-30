@@ -42,7 +42,7 @@ In open-source contributions, I like to share something that I think is valuable
 
     Yuan Sun, Jiaya Liang, **Andong Chen** Xiaobing Zhao
 
-    *The Twentieth China National Conference on Computational Linguistics, CCL 2021* 
+    *The Twentieth China National Conference on Computational Linguistics, CCL,  ACL Anthology, 2021* 
 
 
 
