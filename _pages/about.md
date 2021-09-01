@@ -89,7 +89,7 @@ In open-source contributions, I like to share something that I think is valuable
   * Role: Project **sponsor** and content builder
   * Time: 2019/01-2019/05
   * Introduction: An open-source data analysis project for everyone to learn by themselves
-  * [Github](https://github.com/datawhalechina/hands-on-data-analysis), **400 Starts**, **163 Forks**
+  * [Github](https://github.com/datawhalechina/hands-on-data-analysis), **400 Stars**, **163 Forks**
 * Food Voice Recognition(Alibaba-Tianchi-Match)
   * Role：Competition **designer** and content builder
   * Time: 2021/01-2021/05
@@ -100,13 +100,13 @@ In open-source contributions, I like to share something that I think is valuable
   * Role: Content builder
   * Time: 2021/01-2021/03
   * Introduction: This tutorial is a collaborative project with "docker from beginner to practice", and we have reorganized and refactored it based on the original project with the permission of the author
-  * [Github](https://github.com/datawhalechina/team-learning-program/tree/518aa9c8d5abb0d344583347f58336da68fe5b8d/Docker), **454 Starts**,  **302 Forks**
+  * [Github](https://github.com/datawhalechina/team-learning-program/tree/518aa9c8d5abb0d344583347f58336da68fe5b8d/Docker), **454 Stars**,  **302 Forks**
 
 * Thorough-pytorch 
   * Role: Content builder
   * Time: 2021/07-Present
   * Introduction: Through team learning, you will be able to master the basic knowledge and content of PyTorch from shallow to deep
-  * [Github](https://github.com/datawhalechina/thorough-pytorch/tree/f5f450e1f276aaeae202659f007065a927ce6ee3), **454 Starts**, **302 Forks**
+  * [Github](https://github.com/datawhalechina/thorough-pytorch/tree/f5f450e1f276aaeae202659f007065a927ce6ee3), **454 Stars**, **302 Forks**
 
 # Intership Experience
 * Summer 2021: NLP Research Intern

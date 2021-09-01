@@ -66,7 +66,7 @@ Open Source Contribution
 
 **Introduction**: An open-source data analysis project for everyone to learn by themselves.
 
-**Result**: **Start** 400; **Fork:** 163
+**Result**: **Star 400; **Fork:** 163
 
 **Open source link**: [🔗](https://github.com/datawhalechina/hands-on-data-analysis)
 
