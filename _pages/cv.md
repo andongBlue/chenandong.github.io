@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-Full Resume in [PDF](https://github.com/andongBlue/chenandong.github.io/blob/master/files/CV_Andong_Chen.pdf).
+Full Resume in [PDF](https://drive.google.com/file/d/1PhvLHcJpH8Q7NHQFqRtkbV8kT9_nllPe/view).
 # Contact
 - Tel: (+86)155-2646-6911
 - Email: ands691119@gmail.com
