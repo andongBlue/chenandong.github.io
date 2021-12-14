@@ -54,9 +54,6 @@ In open-source contributions, I like to share something that I think is valuable
 
     *The Twentieth China National Conference on Computational Linguistics, CCL,  ACL Anthology, 2021* 
 
-
-
-
 # Patents 
 1. A service system for automatic generation of reading questions in Tibetan language for elementary school (CN202110228195.5)
 2. A representation method for Tibetan knowledge base (Submitted)
