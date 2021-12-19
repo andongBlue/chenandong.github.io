@@ -36,19 +36,27 @@ In open-source contributions, I like to share something that I think is valuable
 - Reviewer: IEEE Transactions on Affective Computing(IF>10)
 
 # Publications
-1. A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Pdf](https://dl.acm.org/doi/abs/10.1145/3447248))
+1. Improving Low-resource Question Answering by Augmenting Question Information
+[Pdf](https://drive.google.com/file/d/1zM3qz6xojg2ou5Jx13YNAEuA6s-HTCm8/view?usp=sharing)
+
+under review *ACL 2022*
+
+**Andong Chen,** Yuan Sun, Xiaobing Zhao, Rosella P. Galindo Esparza
+
+
+2. A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Pdf](https://dl.acm.org/doi/abs/10.1145/3447248))
 
     Yuan Sun*, ** Andong Chen* ** (Equal Contribution), Chaofan Chen, Tianci Xia, Xiaobing Zhao
 
     *The Transactions on Asian and Low-Resource Language Information Processing, 2021*
     
-2. Improving Low-resource Question Answering by Augmenting Question Information
+3. Improving Low-resource Question Answering by Augmenting Question Information
 
     **Andong Chen**, Yuan Sun, Xiaobing Zhao, Rosella P. Galindo Esparza
     
     *ACL ARR 2021 November Submission*
     
-3. JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [Pdf](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf))
+4. JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [Pdf](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf))
 
     Yuan Sun, Jiaya Liang, **Andong Chen** Xiaobing Zhao
 
