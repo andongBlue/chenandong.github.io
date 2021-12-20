@@ -37,7 +37,7 @@ In open-source contributions, I like to share something that I think is valuable
 
 # Publications
 1. Improving Low-resource Question Answering by Augmenting Question Information 
-[Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2)[Pdf](https://drive.google.com/file/d/1zM3qz6xojg2ou5Jx13YNAEuA6s-HTCm8/view?usp=sharing)
+([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2),      [Pdf](https://drive.google.com/file/d/1zM3qz6xojg2ou5Jx13YNAEuA6s-HTCm8/view?usp=sharing))
 
     Under Review *ACL 2022*
 
