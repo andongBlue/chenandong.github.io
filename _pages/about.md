@@ -49,13 +49,7 @@ In open-source contributions, I like to share something that I think is valuable
 
     *The Transactions on Asian and Low-Resource Language Information Processing, 2021*
     
-3. Improving Low-resource Question Answering by Augmenting Question Information
-
-    **Andong Chen**, Yuan Sun, Xiaobing Zhao, Rosella P. Galindo Esparza
-    
-    *ACL ARR 2021 November Submission*
-    
-4. JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [Pdf](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf))
+3. JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [Pdf](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf))
 
     Yuan Sun, Jiaya Liang, **Andong Chen** Xiaobing Zhao
 
