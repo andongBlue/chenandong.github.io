@@ -126,9 +126,8 @@ In open-source contributions, I like to share something that I think is valuable
   * [Cambricon Technologies Corporation](https://www.cambricon.com/)
   * Main Work: Build a generative pre-trained language model
   * Supervisor: Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en)
-* Spring 2021: NLP Research Intern
+* Spring 2021: NLP Research——Final Project
   * [Queen Mary University of London](https://www.qmul.ac.uk/)
-  * [*Cognitive Science Research Group*](http://cogsci.eecs.qmul.ac.uk/)
   * Main Work: Research low-resource language machine reading comprehension
   * Supervisor: Ph.D. [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
 * Summer 2019: Could Computing Intern
