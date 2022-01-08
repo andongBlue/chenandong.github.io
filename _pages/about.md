@@ -65,7 +65,7 @@ In open-source contributions, I like to share something that I think is valuable
 
 # Talks
 
-- Alibaba Could-TianChi: Speech Recognition Novice Competition ([Slide](https://docs.google.com/presentation/d/1-U_QbUO_WDIXtvCo45PnDCRsJa0A3_Ur/edit#slide=id.p31), [Video](https://www.bilibili.com/video/BV1Uq4y1E7Di?p=1))
+- Alibaba Could-TianChi: Speech Recognition Novice Competition ([Slide](https://docs.google.com/presentation/d/1-U_QbUO_WDIXtvCo45PnDCRsJa0A3_Ur/edit#slide=id.p31), [Video](https://tianchi.aliyun.com/course/live/1649))
 
    June 30, 2021
 
