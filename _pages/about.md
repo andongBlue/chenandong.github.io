@@ -59,10 +59,6 @@ In open-source contributions, I like to share something that I think is valuable
 1. A service system for automatic generation of reading questions in Tibetan language for elementary school (CN202110228195.5)
 2. A representation method for Tibetan knowledge base (Submitted)
 
-# Professional Services
-
-- Reviewer: IEEE Transactions on Affective Computing(IF>10)
-
 # Talks
 
 - Alibaba Could-TianChi: Speech Recognition Novice Competition ([Slide](https://docs.google.com/presentation/d/1-U_QbUO_WDIXtvCo45PnDCRsJa0A3_Ur/edit#slide=id.p31), [Video](https://tianchi.aliyun.com/course/live/1649))
@@ -79,7 +75,7 @@ In open-source contributions, I like to share something that I think is valuable
 
 - Open-source: Open source yourself ([Slide](https://docs.google.com/presentation/d/1slOX0JeNf1la_Zw6jF1nXUteH0OFKMmf/edit#slide=id.p1))
 
-   August 02, 2021
+   Oct 02, 2021
 
   Invited Talk at Institute of Computing Technology, Chinese Academy, Beijing
 
