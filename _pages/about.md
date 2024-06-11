@@ -12,12 +12,13 @@ redirect_from:
 # Biography 
 Andong Chen (陈安东) is a second-year Ph.D. candidate (2022-2025) at Harbin Institute of Technology (哈尔滨工业大学), China, advised by Tiejun Zhao and Kehai Chen. He received his master's and bachelor's degree from  Queen Mary University/Minzu University of China and Hunan University. 
 
-His research interests include nature language processing, large language model and machine translation. He has published 6 papers at the top international AI/NLP conferences/journal such as ACL, EMNLP and TALLIP. 
+His research interests include nature language processing, large language model and machine translation. He has published 3 papers at the top international AI/NLP conferences/journal such as ACL, EMNLP and TALLIP. 
 
-In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about LLMs([So Large Lm](https://github.com/datawhalechina/so-large-lm/tree/main)), which now has **1.5k starts :star2:** and **143 forks**.
+In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about LLMs([So Large Lm](https://github.com/datawhalechina/so-large-lm/tree/main)), which now has **1.5k starts 🌟** and **143 forks**.
 
 # News:
 2024.05:  🎉 1 papers are accepted by ACL 2024!
+
 2023.10:  🎉 1 papers are accepted by EMNLP 2023!
 
 # Professional Services
@@ -32,11 +33,11 @@ In open-source contributions, I like to share something that I think is valuable
 
   *The 61st Annual Meeting of the Association for Computational Linguistics (ACL), Bangkok, Thailand, August 2024*
 
-  - Improving Low-resource Question Answering by Augmenting Question Information
+- Improving Low-resource Question Answering by Augmenting Question Information
 
-    **Andong Chen**, Yuan Sun, Xiaobing Zhao, Rosella P. Galindo Esparza, Kehai Chen, Yang Xiang, Tiejun Zhao, and Min Zhang
+  **Andong Chen**, Yuan Sun, Xiaobing Zhao, Rosella P. Galindo Esparza, Kehai Chen, Yang Xiang, Tiejun Zhao, and Min Zhang
 
-    *Findings of The 2023 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), Singapore, Dec 2023*
+  *Findings of The 2023 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), Singapore, Dec 2023*
 
 - A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Pdf](https://dl.acm.org/doi/abs/10.1145/3447248))
 
