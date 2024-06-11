@@ -14,54 +14,42 @@ Andong Chen (陈安东) is a second-year Ph.D. candidate (2022-2025) at Harbin I
 
 His research interests include nature language processing, large language model and machine translation. He has published 6 papers at the top international AI/NLP conferences/journal such as ACL, EMNLP and TALLIP. 
 
-#I graduated from [Hunan University](http://www-en.hnu.edu.cn/) with an undergraduate degree in Electrical Engineering and Automation. My supervisor was Prof. [Zhigang Ling](http://eeit.hnu.edu.cn/info/1307/4568.htm) who started my research journey about Artificial Intelligence.
-
-#In China (2019/09-2020/01; 2022/02-2022/06), I researched on low resources language at *China and National Language Resource and Monitoring Research Center* in Minzu University of China, advised by  Prof. [Xiaobing Zhao](http://www.imlip.org/col.jsp?id=119) and  Prof. Yuan Sun. In the UK ( 2021/02-2022/01), My major is Big Data Science at [Queen Mary University of London](https://www.qmul.ac.uk/). During my stay in the UK, I am doing research on machine reading comprehension at [*School of Electronic Engineering and Computer Science*](http://www.eecs.qmul.ac.uk/), advised by Ph.D. candidate [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en).
-
-#Recently I am working on generative pre-trained language model at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), supervised by Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en). 
-
 In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about LLMs([So Large Lm](https://github.com/datawhalechina/so-large-lm/tree/main)), which now has **1.5k starts :star2:** and **143 forks**.
 
-# Recent progress:tada:
-
-
-1. Recently, I am working as a NLP Research Intern  at [ICT](http://english.ict.cas.cn/)(Institute of Computing Technology, Chinese Academy of Sciences), mainly working on **generative pre-trained language model**.
-2. In collaboration with [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en) in [Queen Mary University of London](http://compling.eecs.qmul.ac.uk/), a paper is being written on **low-resource machine reading comprehension**. The paper will be submitted to **ACL**.
-
-# Research Interests
-- Artificial Intelligence
-- Computational Linguistics
-- Natural Language Processing
-- Machine Reading Comprehension
-- Language Model
+# News:
+2024.05:  🎉 1 papers are accepted by ACL 2024!
+2023.10:  🎉 1 papers are accepted by EMNLP 2023!
 
 # Professional Services
-
+- ACL2024 ARR
+- EMNLP 2024
 - Reviewer: IEEE Transactions on Affective Computing(IF>10)
 
 # Publications
-1. Improving Low-resource Question Answering by Augmenting Question Information 
-([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2),      [Pdf](https://drive.google.com/file/d/1zM3qz6xojg2ou5Jx13YNAEuA6s-HTCm8/view?usp=sharing))
+- DUAL-REFLECT: Enhancing Large Language Models for Reflective Translation through Dual Learning Feedback Mechanisms
+  
+  **Andong Chen**, Lianzhang Lou, Kehai Chen*, Xuefeng Bai, Yang Xiang, Muyun Yang, Tiejun Zhao, and Min Zhan
 
-    Under Review *ACL 2022*
+  *The 61st Annual Meeting of the Association for Computational Linguistics (ACL), Bangkok, Thailand, August 2024*
 
-    **Andong Chen,** Yuan Sun, Xiaobing Zhao, Rosella P. Galindo Esparza
+  - Improving Low-resource Question Answering by Augmenting Question Information
 
-2. A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Pdf](https://dl.acm.org/doi/abs/10.1145/3447248))
+    **Andong Chen**, Yuan Sun, Xiaobing Zhao, Rosella P. Galindo Esparza, Kehai Chen, Yang Xiang, Tiejun Zhao, and Min Zhang
+
+    *Findings of The 2023 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), Singapore, Dec 2023*
+
+- A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Pdf](https://dl.acm.org/doi/abs/10.1145/3447248))
 
     Yuan Sun*, ** Andong Chen* ** (Equal Contribution), Chaofan Chen, Tianci Xia, Xiaobing Zhao
 
     *The Transactions on Asian and Low-Resource Language Information Processing, 2021*
     
-3. JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [Pdf](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf))
+- JCapsR: A joint capsule neural network learning model for Tibetan language knowledge graph ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2010-10-01-paper-title-number-1), [Pdf](https://github.com/andongBlue/chenandong.github.io/blob/master/files/JCapsR.pdf))
 
     Yuan Sun, Jiaya Liang, **Andong Chen** Xiaobing Zhao
 
     *The Twentieth China National Conference on Computational Linguistics, CCL,  ACL Anthology, 2021* 
 
-# Patents 
-1. A service system for automatic generation of reading questions in Tibetan language for elementary school (CN202110228195.5)
-2. A representation method for Tibetan knowledge base (Submitted)
 
 # Talks
 
