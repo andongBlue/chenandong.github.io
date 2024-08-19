@@ -14,7 +14,7 @@ Andong Chen (陈安东) is a second-year Ph.D. candidate (2022-2025) at Harbin I
 
 His research interests include nature language processing, large language model and machine translation. He has published 3 papers at the top international AI/NLP conferences/journal such as ACL, EMNLP and TALLIP. 
 
-In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about LLMs([So Large Lm](https://github.com/datawhalechina/so-large-lm/tree/main)), which now has **1.5k starts 🌟** and **143 forks**.
+In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about LLMs([So Large Lm](https://github.com/datawhalechina/so-large-lm/tree/main)), which now has **2.4k starts 🌟** and **214 forks**.
 
 # News:
 2024.05:  🎉 1 papers are accepted by ACL 2024!
@@ -41,7 +41,7 @@ In open-source contributions, I like to share something that I think is valuable
 
 - A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Pdf](https://dl.acm.org/doi/abs/10.1145/3447248))
 
-    Yuan Sun*, ** Andong Chen* ** (Equal Contribution), Chaofan Chen, Tianci Xia, Xiaobing Zhao
+    Yuan Sun, **Andong Chen** (Equal Contribution), Chaofan Chen, Tianci Xia, Xiaobing Zhao
 
     *The Transactions on Asian and Low-Resource Language Information Processing, 2021*
     
@@ -53,7 +53,7 @@ In open-source contributions, I like to share something that I think is valuable
 
 
 # Talks
-
+- The 2024 OpenAtom Campus Employment Skills Training Series - Open Source Artificial Intelligence Course: Introduction to Open Source Large Models. [Video]([https://tianchi.aliyun.com/course/live/1649](https://www.bilibili.com/video/BV14x4y1x7bP/?spm_id_from=333.999.0.0&vd_source=4d086b5e84a56b9d46078e927713ffb0)))
 - Alibaba Could-TianChi: Speech Recognition Novice Competition ([Slide](https://docs.google.com/presentation/d/1-U_QbUO_WDIXtvCo45PnDCRsJa0A3_Ur/edit#slide=id.p31), [Video](https://tianchi.aliyun.com/course/live/1649))
 
    June 30, 2021
