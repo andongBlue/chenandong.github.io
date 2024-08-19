@@ -53,7 +53,10 @@ In open-source contributions, I like to share something that I think is valuable
 
 
 # Talks
-- The 2024 OpenAtom Campus Employment Skills Training Series - Open Source Artificial Intelligence Course: Introduction to Open Source Large Models. [Video]([https://tianchi.aliyun.com/course/live/1649](https://www.bilibili.com/video/BV14x4y1x7bP/?spm_id_from=333.999.0.0&vd_source=4d086b5e84a56b9d46078e927713ffb0)))
+- The 2024 OpenAtom Campus Employment Skills Training Series
+
+  Introduction to Open Source Large Models. [Video]([https://www.bilibili.com/video/BV14x4y1x7bP/?spm_id_from=333.999.0.0&vd_source=4d086b5e84a56b9d46078e927713ffb0])
+  
 - Alibaba Could-TianChi: Speech Recognition Novice Competition ([Slide](https://docs.google.com/presentation/d/1-U_QbUO_WDIXtvCo45PnDCRsJa0A3_Ur/edit#slide=id.p31), [Video](https://tianchi.aliyun.com/course/live/1649))
 
    June 30, 2021
