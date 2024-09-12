@@ -29,7 +29,7 @@ In open-source contributions, I like to share something that I think is valuable
 # Publications
 - DUAL-REFLECT: Enhancing Large Language Models for Reflective Translation through Dual Learning Feedback Mechanisms
   
-  **Andong Chen**, Lianzhang Lou, Kehai Chen*, Xuefeng Bai, Yang Xiang, Muyun Yang, Tiejun Zhao, and Min Zhan
+  **Andong Chen**, Lianzhang Lou, Kehai Chen, Xuefeng Bai, Yang Xiang, Muyun Yang, Tiejun Zhao, and Min Zhan
 
   *The 61st Annual Meeting of the Association for Computational Linguistics (ACL), Bangkok, Thailand, August 2024*
 
