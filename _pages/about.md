@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Email:** ands691119@gmail.com, [**Github**](https://github.com/andongBlue), [**Zhihu**](https://www.zhihu.com/people/wang-ya-fei-48)
+**Email:** ands691119@gmail.com, [**Google Scholar**](https://scholar.google.com/citations?user=tcb9VT8AAAAJ&hl=zh-CN) [**Github**](https://github.com/andongBlue), [**Zhihu**](https://www.zhihu.com/people/wang-ya-fei-48)
 
 # Biography 
 Andong Chen (陈安东) is a second-year Ph.D. candidate (2022-2026) at Harbin Institute of Technology (哈尔滨工业大学), China, advised by Tiejun Zhao and Kehai Chen. He received his master's and bachelor's degree from  Queen Mary University/Minzu University of China and Hunan University. 
