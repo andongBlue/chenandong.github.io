@@ -17,7 +17,7 @@ His research interests include nature language processing, large language model 
 In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about LLMs([So Large Lm](https://github.com/datawhalechina/so-large-lm/tree/main)), which now has **2.4k starts 🌟** and **214 forks**.
 
 # News:
-2024.05:  🎉 1 papers are accepted by ACL 2024!
+2024.05:  🎉 1 papers are accepted by ACL 2024! And then release the [video~](https://www.bilibili.com/video/BV1RjU6YPEEY/?spm_id_from=333.999.0.0&vd_source=4d086b5e84a56b9d46078e927713ffb0)
 
 2023.10:  🎉 1 papers are accepted by EMNLP 2023!
 
@@ -27,7 +27,7 @@ In open-source contributions, I like to share something that I think is valuable
 - Reviewer: IEEE Transactions on Affective Computing(IF>10)
 
 # Publications
-- DUAL-REFLECT: Enhancing Large Language Models for Reflective Translation through Dual Learning Feedback Mechanisms
+- DUAL-REFLECT: Enhancing Large Language Models for Reflective Translation through Dual Learning Feedback Mechanisms [(video)](https://www.bilibili.com/video/BV1RjU6YPEEY/?spm_id_from=333.999.0.0&vd_source=4d086b5e84a56b9d46078e927713ffb0)
   
   **Andong Chen**, Lianzhang Lou, Kehai Chen, Xuefeng Bai, Yang Xiang, Muyun Yang, Tiejun Zhao, and Min Zhan
 
