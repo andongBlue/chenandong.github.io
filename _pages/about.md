@@ -10,11 +10,11 @@ redirect_from:
 **Email:** ands691119@gmail.com, [**Google Scholar**](https://scholar.google.com/citations?user=tcb9VT8AAAAJ&hl=zh-CN) [**Github**](https://github.com/andongBlue), [**Zhihu**](https://www.zhihu.com/people/wang-ya-fei-48)
 
 # Biography 
-Andong Chen (陈安东) is a second-year Ph.D. candidate (2022-2026) at Harbin Institute of Technology (哈尔滨工业大学), China, advised by Tiejun Zhao. He received his master's and bachelor's degree from  Queen Mary University/Minzu University of China and Hunan University. 
+Andong Chen (陈安东) is a third-year Ph.D. candidate (2022-2026) at Harbin Institute of Technology (哈尔滨工业大学), China, advised by Tiejun Zhao. He received his master's and bachelor's degree from  Queen Mary University/Minzu University of China and Hunan University. 
 
 His research interests include nature language processing, large language model and machine translation. He has published 3 papers at the top international AI/NLP conferences/journal such as ACL, EMNLP and TALLIP. 
 
-In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about LLMs([So Large Lm](https://github.com/datawhalechina/so-large-lm/tree/main)), which now has **2.4k starts 🌟** and **214 forks**.
+In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about LLMs([So Large Lm](https://github.com/datawhalechina/so-large-lm/tree/main)), which now has **3k starts 🌟**.
 
 # News:
 2024.05:  🎉 1 papers are accepted by ACL 2024! And then release the [video~](https://www.bilibili.com/video/BV1RjU6YPEEY/?spm_id_from=333.999.0.0&vd_source=4d086b5e84a56b9d46078e927713ffb0)
