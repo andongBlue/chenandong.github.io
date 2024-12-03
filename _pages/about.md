@@ -10,7 +10,7 @@ redirect_from:
 **Email:** ands691119@gmail.com, [**Google Scholar**](https://scholar.google.com/citations?user=tcb9VT8AAAAJ&hl=zh-CN) [**Github**](https://github.com/andongBlue), [**Zhihu**](https://www.zhihu.com/people/wang-ya-fei-48)
 
 # Biography 
-Andong Chen (陈安东) is a third-year Ph.D. candidate (2022-2026) at Harbin Institute of Technology (哈尔滨工业大学), China, advised by Tiejun Zhao. Currently visiting Professor [Min Zhang](https://zhangmin-nlp-ai.github.io/Pesonel-Information/)’s laboratory (2022–Present) .He received his master's and bachelor's degree from  Queen Mary University/Minzu University of China and Hunan University. 
+Andong Chen (陈安东) is a third-year Ph.D. candidate (2022-2026) at Harbin Institute of Technology (哈尔滨工业大学), China, advised by （Tiejun Zhao)[https://homepage.hit.edu.cn/zhaotiejun]. Currently visiting Professor [Min Zhang](https://zhangmin-nlp-ai.github.io/Pesonel-Information/)’s laboratory (2022–Present) .He received his master's and bachelor's degree from  Queen Mary University/Minzu University of China and Hunan University. 
 
 His research interests include nature language processing, large language model and machine translation. He has published 3 papers at the top international AI/NLP conferences/journal such as ACL, EMNLP and TALLIP. 
 
