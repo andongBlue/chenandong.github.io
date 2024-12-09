@@ -39,6 +39,12 @@ In open-source contributions, I like to share something that I think is valuable
 
   *Findings of The 2023 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), Singapore, Dec 2023*
 
+-  Equals: A real-world dataset for legal question answering via reading chinese laws.
+
+   **Andong Chen**, Feng Yao, Xinyan Zhao, Yating Zhang, Changlong Sun, Yun Liu, Weixing Shen
+
+   *Proceedings of the Nineteenth International Conference on Artificial Intelligence and Law. 2023.*
+
 - A Joint Model for Representation Learning of TibetanKnowledge Graph Based on Encyclopedia ([Detail](https://andongblue.github.io/chenandong.github.io//publication/2015-10-01-paper-title-number-2), [Pdf](https://dl.acm.org/doi/abs/10.1145/3447248))
 
     Yuan Sun, **Andong Chen** (Equal Contribution), Chaofan Chen, Tianci Xia, Xiaobing Zhao
@@ -50,6 +56,25 @@ In open-source contributions, I like to share something that I think is valuable
     Yuan Sun, Jiaya Liang, **Andong Chen** Xiaobing Zhao
 
     *The Twentieth China National Conference on Computational Linguistics, CCL,  ACL Anthology, 2021* 
+
+# Intership Experience
+* Summer 2022-2023: NLP Research Intern
+  * [Alibaba DAMO Academy for Discovery]([http://english.ict.cas.cn/](https://damo.alibaba.com/research-areas?language=zh))
+  * Main Work: Focus on LLMs and Legal QA.
+  * Supervisor: Prof. [Changlong Sun](https://scholar.google.com/citations?user=MvoNzW0AAAAJ&hl=zh-CN)
+  
+* Summer 2021: NLP Research Intern
+  * [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/)
+  * [Cambricon Technologies Corporation](https://www.cambricon.com/)
+  * Main Work: Build a generative pre-trained language model
+  * Supervisor: Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en)
+* Spring 2021: NLP Research——Final Project
+  * [Queen Mary University of London](https://www.qmul.ac.uk/)
+  * Main Work: Research low-resource language machine reading comprehension
+  * Supervisor: Ph.D. [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
+* Summer 2019: Could Computing Intern
+  * [Sangfor Technologies Inc. ](https://www.sangfor.com/en)
+  * Main Work: Desktop Cloud Development
 
 
 # Talks
@@ -85,7 +110,8 @@ In open-source contributions, I like to share something that I think is valuable
   
    August 24, 2021
 
-   Invited Talk at Institute of Computing Technology, Chinese Academy, Beijing
+   Invited Talk at the Institute of Computing Technology, Chinese Academy, Beijing
+
 
 # Open Source Contribution
 
@@ -112,19 +138,6 @@ In open-source contributions, I like to share something that I think is valuable
   * Introduction: Through team learning, you will be able to master the basic knowledge and content of PyTorch from shallow to deep
   * [Github](https://github.com/datawhalechina/thorough-pytorch/tree/f5f450e1f276aaeae202659f007065a927ce6ee3), **454 Stars**, **302 Forks**
 
-# Intership Experience
-* Summer 2021: NLP Research Intern
-  * [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/)
-  * [Cambricon Technologies Corporation](https://www.cambricon.com/)
-  * Main Work: Build a generative pre-trained language model
-  * Supervisor: Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en)
-* Spring 2021: NLP Research——Final Project
-  * [Queen Mary University of London](https://www.qmul.ac.uk/)
-  * Main Work: Research low-resource language machine reading comprehension
-  * Supervisor: Ph.D. [Rosella Galindo Esparza](https://scholar.google.com/citations?user=oxqjNj8AAAAJ&hl=en)
-* Summer 2019: Could Computing Intern
-  * [Sangfor Technologies Inc. ](https://www.sangfor.com/en)
-  * Main Work: Desktop Cloud Development
 
 
 # Honors and Awards
