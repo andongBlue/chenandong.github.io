@@ -63,10 +63,15 @@ In open-source contributions, I like to share something that I think is valuable
     *The Twentieth China National Conference on Computational Linguistics, CCL,  ACL Anthology, 2021* 
 
 # Intership Experience
+* Summer 2023-2024: NLP Research Intern
+  * [**Peng Cheng Laboratory, China**](https://www.pcl.ac.cn/)
+  * Main Work: Focus on LLMs and Machine Translation.
+  * Supervisor: Dr. [Yang Xiang](https://scholar.google.com/citations?user=zDyL-NoAAAAJ&hl=zh-CN)
+    
 * Summer 2022-2023: NLP Research Intern
   * [**Alibaba DAMO Academy for Discovery**](https://damo.alibaba.com/research-areas?language=zh)
-  * Main Work: Focus on LLMs and Legal QA.
-  * Supervisor: Prof. [Changlong Sun](https://scholar.google.com/citations?user=MvoNzW0AAAAJ&hl=zh-CN)
+  * Main Work: Focus on LLMs and Legal Question Answering.
+  * Supervisor: Dr. [Changlong Sun](https://scholar.google.com/citations?user=MvoNzW0AAAAJ&hl=zh-CN)
   
 * Summer 2021: NLP Research Intern
   * [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/)
