@@ -16,9 +16,11 @@ Andong Chen (陈安东) is a third-year Ph.D. candidate (2022-2026) at Harbin In
 
 His research interests include nature language processing, large language model and machine translation. He has published 3 papers at the top international AI/NLP conferences/journal such as ACL, EMNLP and TALLIP. 
 
-In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about LLMs([So Large Lm](https://github.com/datawhalechina/so-large-lm/tree/main)), which now has **3k starts 🌟**.
+In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about LLMs([So Large Lm](https://github.com/datawhalechina/so-large-lm/tree/main)), which now has **4k starts 🌟**.
 
 # News:
+2025.02:  ⚠️ We conducted a comprehensive evaluation and analysis of current o1-Like LLMs in the context of multilingual translation [Paper](https://www.arxiv.org/pdf/2502.11544).
+
 2024.05:  🎉 1 papers are accepted by ACL 2024! And then release the [video~](https://www.bilibili.com/video/BV1RjU6YPEEY/?spm_id_from=333.999.0.0&vd_source=4d086b5e84a56b9d46078e927713ffb0)
 
 2023.10:  🎉 1 papers are accepted by EMNLP 2023!
