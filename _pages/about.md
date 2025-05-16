@@ -31,6 +31,7 @@ In open-source contributions, I like to share something that I think is valuable
 - Reviewer of ACL2024
 - Reviewer of EMNLP 2024
 - Reviewer of NAACL 2024
+- Reviewer of Transactions on Asian and Low-Resource Language Information Processing
 - Reviewer of Information Fusion 
 - Reviewer of IEEE Transactions on Affective Computing(IF>10)
 
