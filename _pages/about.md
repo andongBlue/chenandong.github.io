@@ -36,6 +36,23 @@ In open-source contributions, I like to share something that I think is valuable
 - Reviewer of IEEE Transactions on Affective Computing(IF>10)
 
 # Publications
+- Source-side Context Predictive Completion for Simultaneous Machine Translation
+
+  **Andong Chen**, Kehai Chen*, Yang Xiang, Xuefeng Bai, Muyun Yang, Tiejun Zhao, and Min Zhang
+
+  *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), Accepted, May 2025*
+
+- Make Imagination Clearer! Stable Diffusion-based Visual Imagination for Multimodal Machine Translation
+
+  **Andong Chen**, Yuchen Song, Kehai Chen*, Xuefeng Bai, Muyun Yang, Liqiang Nie, Jie Liu, Tiejun Zhao, and Min Zhang
+
+  *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), Vienna, Austria, July 27-August 1st, 2025*
+
+- LLM-based Translation Inference with Iterative Bilingual Understanding [Paper and Bib]
+
+  **Andong Chen**, Kehai Chen*, Yang Xiang, Xuefeng Bai, Muyun Yang, Yang Feng, Tiejun Zhao, and Min Zhang
+
+  *Findings of The 63rd Annual Meeting of the Association for Computational Linguistics (ACL Findings), Vienna, Austria, July 27-August 1st, 2025*
 
 - DUAL-REFLECT: Enhancing Large Language Models for Reflective Translation through Dual Learning Feedback Mechanisms [(video)](https://www.bilibili.com/video/BV1RjU6YPEEY/?spm_id_from=333.999.0.0&vd_source=4d086b5e84a56b9d46078e927713ffb0)
   
