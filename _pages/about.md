@@ -19,7 +19,7 @@ His research interests include nature language processing, large language model 
 In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about LLMs([So Large Lm](https://github.com/datawhalechina/so-large-lm/tree/main)), which now has **4k starts 🌟**.
 
 # News:
-2025.05:  🎉 2 papers are accepted by ACL 2025! 
+2025.05:  🎉 2 papers are accepted by ACL 2025; 1 paper is accepted by TASLP!
 
 2025.02:  ⚠️ We conducted a comprehensive evaluation and analysis of current o1-Like LLMs in the context of multilingual translation [Paper](https://www.arxiv.org/pdf/2502.11544).
 
