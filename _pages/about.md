@@ -14,9 +14,7 @@ redirect_from:
 # Biography 
 Andong Chen (陈安东) is a third-year Ph.D. candidate (2022-2026) at Harbin Institute of Technology (哈尔滨工业大学), China, advised by [Tiejun Zhao](https://homepage.hit.edu.cn/zhaotiejun). Currently visiting Professor [Min Zhang](https://faculty.hitsz.edu.cn/MinZhang)’s team (2022–Present) .He received his master's and bachelor's degree from  Queen Mary University/Minzu University of China and Hunan University. 
 
-His research interests include nature language processing, large language model and machine translation. He has published 3 papers at the top international AI/NLP conferences/journal such as ACL, EMNLP and TALLIP. 
-
-In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about LLMs([So Large Lm](https://github.com/datawhalechina/so-large-lm/tree/main)), which now has **4k starts 🌟**.
+In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about LLMs([So Large Lm](https://github.com/datawhalechina/so-large-lm/tree/main)).
 
 # News:
 2025.05:  🎉 2 papers are accepted by ACL 2025; 1 paper is accepted by TASLP!
