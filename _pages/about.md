@@ -32,8 +32,23 @@ In open-source contributions, I like to share something that I think is valuable
 - Reviewer of Transactions on Asian and Low-Resource Language Information Processing
 - Reviewer of Information Fusion 
 - Reviewer of IEEE Transactions on Affective Computing(IF>10)
+- Reviewer of Frontiers of Information Technology & Electronic Engineering
 
 # Publications
+
+- Adaptive Inner Speech Text Alignment for LLM-based Speech Translation
+
+  Henglyu Liu, **Andong Chen**, Kehai Chen*, Xuefeng Bai, Meizhi Zhong, Yuan Qiu, and Min Zhang
+
+  *The 14th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC), Urumqi, China, August 2025*
+
+
+- TianWen: A Comprehensive Benchmark for Evaluating LLMs in Chinese Classical Poetry Understanding and Reasoning
+
+  Zhenwu Pei, Rongbo Chen, Xuefeng Bai, Kehai Chen, Yingjie Zhu, **Andong Chen**, and Min Zhang
+
+  *The 14th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC), Urumqi, China, August 2025*
+
 - Source-side Context Predictive Completion for Simultaneous Machine Translation
 
   **Andong Chen**, Kehai Chen, Yang Xiang, Xuefeng Bai, Muyun Yang, Tiejun Zhao, and Min Zhang
