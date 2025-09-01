@@ -17,6 +17,8 @@ Andong Chen (陈安东) is a third-year Ph.D. candidate (2022-2026) at Harbin In
 In open-source contributions, I like to share something that I think is valuable. Now I am the project leader of an open source project about LLMs([So Large Lm](https://github.com/datawhalechina/so-large-lm/tree/main)).
 
 # News:
+2025.08:  🎉 1 papers are accepted by EMNLP 2025!
+
 2025.05:  🎉 2 papers are accepted by ACL 2025; 1 paper is accepted by TASLP!
 
 2025.02:  ⚠️ We conducted a comprehensive evaluation and analysis of current o1-Like LLMs in the context of multilingual translation [Paper](https://www.arxiv.org/pdf/2502.11544).
@@ -35,6 +37,11 @@ In open-source contributions, I like to share something that I think is valuable
 - Reviewer of Frontiers of Information Technology & Electronic Engineering
 
 # Publications
+- Benchmarking llms for translating classical chinese poetry: Evaluating adequacy, fluency, and elegance
+  
+  **Andong Chen**, Lianzhang Lou, Kehai Chen, Xuefeng Bai, Yang Xiang, Muyun Yang, Tiejun Zhao, Min Zhang
+
+  The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), Suzhou, China, November 5–9, 2025
 
 - Adaptive Inner Speech Text Alignment for LLM-based Speech Translation
 
