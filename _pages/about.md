@@ -105,21 +105,26 @@ In open-source contributions, I like to share something that I think is valuable
     *The Twentieth China National Conference on Computational Linguistics, CCL,  ACL Anthology, 2021* 
 
 # Intership Experience
+<!-- 
 * Summer 2023-2024: NLP Research Intern
   * [**Peng Cheng Laboratory, China**](https://www.pcl.ac.cn/)
   * Main Work: Focus on LLMs and Machine Translation.
   * Supervisor: Dr. [Yang Xiang](https://scholar.google.com/citations?user=zDyL-NoAAAAJ&hl=zh-CN)
+-->
     
 * Summer 2022-2023: NLP Research Intern
   * [**Alibaba DAMO Academy for Discovery**](https://damo.alibaba.com/research-areas?language=zh)
   * Main Work: Focus on LLMs and Legal Question Answering.
   * Supervisor: Dr. [Changlong Sun](https://scholar.google.com/citations?user=MvoNzW0AAAAJ&hl=zh-CN)
-  
+
+<!--   
 * Summer 2021: NLP Research Intern
   * [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/)
   * [**Cambricon Technologies Corporation**](https://www.cambricon.com/)
   * Main Work: Build a generative pre-trained language model (One of the earliest research teams in China to work on LLMs.)
   * Supervisor: Prof. [Xishan Zhang](http://people.ucas.edu.cn/~zhangxishan?language=en)
+-->
+
 * Spring 2021: NLP Research——Final Project
   * [Queen Mary University of London](https://www.qmul.ac.uk/)
   * Main Work: Research low-resource language machine reading comprehension
@@ -191,8 +196,9 @@ In open-source contributions, I like to share something that I think is valuable
 
 
 # Honors and Awards
-
+<!-- 
 - "Huawei Cup" China Post-Graduate Mathematical Contest in Modeling(17th), Third Prize(**15%**), The Chinese Society of Academic Degrees and Graduate Education, 2020
+-->
 - China College Students' 'Internet+'Innovation and Entrepreneurship Competition(6th), Third Prize(**25%**), Beijing Municipal Education Commission, 2020
 - WeBank’s fintech university competition(2th), **Top 10**, WeBank & Shenzhen University WeBank Institute of Fintech, 2020
 - Prize Scholarship (**10%**), Mizu University of China, 2019-2020
